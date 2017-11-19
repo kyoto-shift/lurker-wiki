@@ -1,0 +1,33 @@
+====== Reaper: Miscellaneous ======
+<WRAP group>
+
+/* ----- VIDEO ----- */
+
+<WRAP half column>
+  * **Video** --
+     * [[https://www.youtube.com/channel/UCq297H7Ca98HlB5mVFHGSsQ|Kenny Gioia - YouTube]]
+     * [[https://www.youtube.com/user/audiogeekzine|Jon Tidey - YouTube]]
+     * [[https://www.youtube.com/channel/UCMUHt6JzCMsdtvkaJpU3KXw|ReaperTV - YouTube]]
+
+
+</WRAP>
+
+/* ----- WRITTEN ----- */
+
+<WRAP half column>
+  * **Written** --
+    * [[https://www.reaper.fm/userguide.php|Reaper Manual]]
+
+</WRAP>
+</WRAP>
+
+
+
+
+
+
+
+
+
+
+

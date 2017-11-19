@@ -1,0 +1,13 @@
+/*===== EQ Eight (Live 9) =====
+
+<WRAP group>
+<WRAP column right 40%>
+[{{ :ableton:plugins:eq8.gif?direct|EQ Eight in use.}}]
+</WRAP>
+<WRAP columns>
+Equalization (or equalisation) is the process of adjusting the balance between frequency components within an electronic signal. The most well known use of equalization is in sound recording and reproduction but there are many other applications in electronics and telecommunications. The circuit or equipment used to achieve equalization is called an equalizer. These devices strengthen (boost) or weaken (cut) the energy of specific frequency bands or "frequency ranges".
+</WRAP>
+</WRAP>
+
+
+*/

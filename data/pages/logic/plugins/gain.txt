@@ -1,0 +1,25 @@
+====== Gain ======
+<WRAP group>
+<WRAP right column 35%>
+[{{ :logic:plugins:gain.png?direct|Gain plugin when opened in Logic.}}] 
+</WRAP>
+<WRAP columns>
+Gain is a plugin in used to adjust gain levels, adjust left and right stereo levels, swap left and right stereo, invert left and right phase, and convert to mono. This plugin is located in the Utility section of the Audio FX plugin list. 
+</WRAP>
+
+===== Level & Balance =====
+Gain features two main knobs:
+  * The gain knob adjusts the level of gain from -96db to +24db. 
+  * The balance knob adjusts the level of the left and right stereo channels.
+
+===== Phase Inversion =====
+
+The phase invert buttons invert the phase of the left or right channels, respectively.
+
+===== Stereo & Mono =====
+
+The swap L/R button swaps the left and right channels of a stereo signal. The mono button converts a stereo signal to a mono signal.
+
+
+
+

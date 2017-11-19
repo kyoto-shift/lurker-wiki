@@ -1,0 +1,31 @@
+<?php
+
+/**
+ * @license    GPL 2 (http://www.gnu.org/licenses/gpl.html)
+ * 
+ * @author Laurent Bisson <lau.biss@voila.fr>
+ */
+$lang['name']					= 'Données du Serveur Dokuwiki';
+$lang['server_ip']				= 'ip';
+$lang['server_web']				= 'serveur web';
+$lang['vauptime']               = 'Durée de fonctionnement';
+$lang['vaserver']               = 'Données du Serveur';
+$lang['vaphp']                  = 'Données de pHp';
+$lang['server_name']            = 'Nom';
+$lang['server_os']				= 'OS';
+$lang['php_version']			= 'Version de pHp';
+$lang['document_root']			= 'Document root';
+$lang['server_port']			= 'No du port';
+$lang['free_space']				= 'Espace disque disponible';
+$lang['total_space']			= 'Espace disque total';
+$lang['path_toini']				= 'Chemin fichier de configuration php';
+$lang['dokufolder']				= 'Contenu du dossier Dokuwiki';
+$lang['uploadmaxfilesize']		= 'Directive upload_max_filesize';
+$lang['postmaxsize']			= 'Directive post_maxsize';
+$lang['memorylimit']			= 'Directive memory_limit';
+$lang['server_local_time'] 		= "Heure serveur";
+$lang['server_itil_uptime'] 	= "Ce serveur fonctionne depuis";
+$lang['day']					= "jour";
+$lang['hour']					= "heure";
+$lang['minute']					= "minute";
+?>

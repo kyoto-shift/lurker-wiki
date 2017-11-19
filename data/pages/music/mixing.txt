@@ -1,0 +1,7 @@
+[[music:mixing:chat|{{fa>comments?24&right|Discuss}}]]
+====== Mixing & Mastering ====== 
+Articles related to mixing & mastering music.
+
+===== Articles: =====
+
+{{simplenavi>music:mixing?ns: -chat}}

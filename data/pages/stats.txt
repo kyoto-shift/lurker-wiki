@@ -1,0 +1,33 @@
+===== Admin Stats =====
+
+''/data/meta''
+
+{{statdisplay>progress bar}}
+
+|
+
+<WRAP center box 100%>
+{{statdisplay>month by hour?graph}}
+</WRAP>
+
+<WRAP center box 100%>
+{{statdisplay>all}}
+</WRAP>
+
+<WRAP center box 100%>
+{{statdisplay>one month}}
+</WRAP>
+
+<WRAP center box 100%>
+
+{{statdisplay>top referers}} 
+
+{{statdisplay>top urls}}
+
+{{statdisplay>top entries}}
+
+</WRAP>
+
+<WRAP center box 100%>
+{{statdisplay>traffic by user}}
+</WRAP>

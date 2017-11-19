@@ -1,0 +1,11 @@
+====== A ======
+
+<WRAP group>
+<WRAP half column>
+{{simplenavi>terms:a}}
+</WRAP>
+
+<WRAP half column>
+
+</WRAP>
+</WRAP>

@@ -1,0 +1,32 @@
+====== Logic Pro: Miscellaneous ======
+
+<WRAP group>
+
+/* ----- VIDEO ----- */
+
+<WRAP half column>
+  * **Video** --
+    * 
+
+
+</WRAP>
+
+/* ----- WRITTEN ----- */
+
+<WRAP half column>
+  * **Written** --
+    * [[https://help.apple.com/logicpro/mac/10.3/index.html|Logic Pro X Manual]]
+
+</WRAP>
+</WRAP>
+
+
+
+
+
+
+
+
+
+
+

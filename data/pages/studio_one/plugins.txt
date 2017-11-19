@@ -1,0 +1,12 @@
+====== Studio One: Plugins ======
+
+<WRAP group>
+<WRAP column 100%>
+{{simplenavi>studio_one:plugins}}
+
+
+</WRAP>
+</WRAP>
+
+
+

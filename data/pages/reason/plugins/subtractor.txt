@@ -1,0 +1,27 @@
+====== Subtractor Polyphonic Synthesizer ======
+
+<WRAP group>
+<WRAP right column 35%>
+[{{ :reason:plugins:subtractor.jpg?direct|Subtractor in Reason.}}]
+</WRAP>
+
+<WRAP columns>
+Subtractor is an analog-type polyphonic synthesizer based on subtractive synthesis, the method used in analog synthesizers.
+
+===== The Oscillator Section =====
+Subtractor provides two oscillators. Oscillators are the main sound generators in Subtractor, the other features are used to shape the sound of the oscillators. Oscillators generate two basic properties, waveform and pitch (frequency). The type of waveform the oscillator produces determines the harmonic content of the sound, which in turn affects the resultant sound quality (timbre). Selecting a oscillator wave form is usually the starting point when creating a new Subtractor Patch from scratch.
+
+
+/*
+===== Control 2 =====
+
+Replace with information about another main feature of the plugin.
+
+(continue to add more information if needed)
+*/
+</WRAP>
+</WRAP>
+
+
+
+

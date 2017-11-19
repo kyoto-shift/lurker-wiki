@@ -1,0 +1,38 @@
+====== Cubase: Overview ======
+
+<WRAP group>
+<WRAP column 100%>
+Cubase is a music software product developed by German musical software and equipment company Steinberg (Steinberg Media Technologies GmbH) for music recording, arranging and editing as part of a digital audio workstation. The first version, which ran on the Atari ST computer and recorded via MIDI only, was released in 1989.
+</WRAP>
+</WRAP>
+
+<WRAP center todo 100%>
+Cubase is low on content! If you'd like to help, get started by reading our [[:lurker|editing guides]]!
+</WRAP>
+
+<WRAP group>
+<WRAP half column>
+[[cubase:plugins|Plugins:]] 
+{{simplenavi>cubase:plugins}}
+</WRAP>
+
+<WRAP half column>
+[[cubase:guides|Guides:]] 
+{{simplenavi>cubase:guides}}
+
+</WRAP>
+</WRAP>
+----
+
+<WRAP group>
+<WRAP left>
+[[cubase:misc|Miscellaneous:]]
+</WRAP>
+
+{{page>cubase:misc&noheader&noeditbutton}}
+
+</WRAP>
+
+
+
+

@@ -1,0 +1,35 @@
+====== Studio One: Overview ======
+
+<WRAP group>
+<WRAP column 100%>
+Studio One is a DAW used to create, record, and master music, made by PreSonus Software, for Mac OS X and Windows.
+</WRAP>
+</WRAP>
+
+<WRAP center todo 100%>
+Studio One is low on content! If you'd like to help, get started by reading our [[:lurker|editing guides]]!
+</WRAP>
+
+<WRAP group>
+<WRAP half column>
+[[studio_one:plugins|Plugins:]] 
+{{simplenavi>studio_one:plugins}}
+</WRAP>
+
+<WRAP half column>
+[[studio_one:guides|Guides:]] 
+{{simplenavi>studio_one:guides}}
+
+</WRAP>
+</WRAP>
+----
+
+<WRAP group>
+<WRAP left>
+[[studio_one:misc|Miscellaneous:]]
+</WRAP>
+
+{{page>studio_one:misc&noheader&noeditbutton}}
+
+</WRAP>
+

@@ -1,0 +1,7 @@
+base    serverinfos
+author  Laurent Bisson
+email   maclol@inetlab.fr
+date    2017-06-14
+name    ServerInfos Plugin
+desc    Show your server datas
+url     http://maclol.inetlab.fr/2015/12/04/serverinfos/

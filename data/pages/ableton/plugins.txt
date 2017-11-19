@@ -1,0 +1,12 @@
+====== Ableton Live: Plugins ======
+
+
+<WRAP group>
+<WRAP column 100%>
+{{simplenavi>ableton:plugins}}
+
+</WRAP>
+</WRAP>
+
+
+

@@ -1,0 +1,35 @@
+====== Reaper: Overview ======
+
+<WRAP group>
+<WRAP column 100%>
+REAPER (an acronym for rapid environment for audio production, engineering, and recording) is a multitrack recording and a digital audio workstation created by Cockos. The current version is available for Microsoft Windows (XP and newer) and macOS (10.5 and newer) – beta versions are also available for Linux. REAPER acts as a host to most industry standard plugin formats (such as VST and AU) and can import all commonly-used media formats, including video. REAPER and its included plugins are available in 32-bit and 64-bit format.
+
+</WRAP>
+</WRAP>
+
+<WRAP center todo 100%>
+Reaper is low on content! If you'd like to help, get started by reading our [[:lurker|editing guides]]!
+</WRAP>
+
+<WRAP group>
+<WRAP half column>
+[[reaper:plugins|Plugins:]] 
+{{simplenavi>reaper:plugins}}
+</WRAP>
+
+<WRAP half column>
+[[reaper:guides|Guides:]] 
+{{simplenavi>reaper:guides}}
+</WRAP>
+</WRAP>
+----
+
+<WRAP group>
+<WRAP left>
+[[reaper:misc|Miscellaneous:]]
+</WRAP>
+
+{{page>reaper:misc&noheader&noeditbutton}}
+
+</WRAP>
+

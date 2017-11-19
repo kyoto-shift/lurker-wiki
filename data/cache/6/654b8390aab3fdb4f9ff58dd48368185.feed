@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="https://lurker.pro/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://lurker.pro/feed.php">
+        <title>Lurker</title>
+        <description></description>
+        <link>https://lurker.pro/</link>
+        <image rdf:resource="https://lurker.pro/_media/wiki/favicon.ico" />
+       <dc:date>2017-11-12T00:15:08+00:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://lurker.pro/cubase/plugins?rev=1510190975&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/cubase/plugins/roomworks?rev=1510190897&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/?image=cubase%3Acubase_reverb_final_0.png&amp;ns=cubase&amp;rev=1510171536&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="https://lurker.pro/resources/video?rev=1509472188&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/music/basics/chat?rev=1509126079&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/music/basics?rev=1509126041&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/terms/a?rev=1508980082&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/terms/a/attack?rev=1508979299&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/?image=terms%3Aa%3Aattack_and_decay.jpg&amp;ns=terms%3Aa&amp;rev=1508977863&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="https://lurker.pro/terms?rev=1508968630&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/terms/0-9?rev=1508967941&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/?image=reaper%3Aplugins%3Area_eq.png&amp;ns=reaper%3Aplugins&amp;rev=1508959153&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="https://lurker.pro/?image=reason%3Aplugins%3Athor.jpg&amp;ns=reason%3Aplugins&amp;rev=1508811802&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="https://lurker.pro/?image=reason%3Aplugins%3Asubtractor.jpg&amp;ns=reason%3Aplugins&amp;rev=1508811469&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="https://lurker.pro/?image=reason%3Aplugins%3Aredrum.jpg&amp;ns=reason%3Aplugins&amp;rev=1508810704&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="https://lurker.pro/?image=reaper%3Aplugins%3Areacomp.png&amp;ns=reaper%3Aplugins&amp;rev=1508805888&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="https://lurker.pro/?image=reason%3Aplugins%3Akong.jpg&amp;ns=reason%3Aplugins&amp;rev=1508805303&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="https://lurker.pro/?image=lurker%3Atable-editingold.png&amp;ns=lurker&amp;rev=1508789910&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="https://lurker.pro/?image=lurker%3Atable-editwindow.png&amp;ns=lurker&amp;rev=1508788852&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="https://lurker.pro/?image=ableton%3Aplugins%3Aeq8.gif&amp;ns=ableton%3Aplugins&amp;rev=1508782915&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="https://lurker.pro/_media/wiki/favicon.ico">
+        <title>Lurker</title>
+        <link>https://lurker.pro/</link>
+        <url>https://lurker.pro/_media/wiki/favicon.ico</url>
+    </image>
+    <item rdf:about="https://lurker.pro/cubase/plugins?rev=1510190975&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-11-09T01:29:35+00:00</dc:date>
+        <dc:creator>lurker</dc:creator>
+        <title>cubase:plugins - created</title>
+        <link>https://lurker.pro/cubase/plugins?rev=1510190975&amp;do=diff</link>
+        <description>Cubase: Guides</description>
+    </item>
+    <item rdf:about="https://lurker.pro/cubase/plugins/roomworks?rev=1510190897&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-11-09T01:28:17+00:00</dc:date>
+        <dc:creator>lurker</dc:creator>
+        <title>cubase:plugins:roomworks - created</title>
+        <link>https://lurker.pro/cubase/plugins/roomworks?rev=1510190897&amp;do=diff</link>
+        <description>RoomWorks
+
+Cubase's RoomWorks is a reverb effect provided by Steinberg in their toolkit of stock plug-ins. Reverb is known for being a highly versatile effect and has uses ranging from making minor frequency adjustments on objects as small as individual midi notes to breathing a bit more life into a track during the mastering process. Apart from your typical use of reverb, adding a lot more character to a sound you are working on, there are also numerous ways that you can tweak certain parameter…</description>
+    </item>
+    <item rdf:about="https://lurker.pro/?image=cubase%3Acubase_reverb_final_0.png&amp;ns=cubase&amp;rev=1510171536&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-11-08T20:05:36+00:00</dc:date>
+        <dc:creator>psyberscenic</dc:creator>
+        <title>cubase:cubase_reverb_final_0.png - created</title>
+        <link>https://lurker.pro/?image=cubase%3Acubase_reverb_final_0.png&amp;ns=cubase&amp;rev=1510171536&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;https://lurker.pro/_media/cubase/cubase_reverb_final_0.png?w=500&amp;h=156&amp;t=1510171536&amp;amp;tok=7f77dc&quot; alt=&quot;cubase:cubase_reverb_final_0.png&quot; /&gt;</description>
+    </item>
+    <item rdf:about="https://lurker.pro/resources/video?rev=1509472188&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-31T17:49:48+00:00</dc:date>
+        <dc:creator>lurker</dc:creator>
+        <title>resources:video</title>
+        <link>https://lurker.pro/resources/video?rev=1509472188&amp;do=diff</link>
+        <description>Video
+
+	*  Deadmau5 - Masterclass
+	*  Hans Zimmer - Masterclass
+	*   Mixing 101 - Wickiemedia</description>
+    </item>
+    <item rdf:about="https://lurker.pro/music/basics/chat?rev=1509126079&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-27T17:41:19+00:00</dc:date>
+        <dc:creator>lurker</dc:creator>
+        <title>music:basics:chat - created</title>
+        <link>https://lurker.pro/music/basics/chat?rev=1509126079&amp;do=diff</link>
+        <description>Due to the server's lack of strength, I ask that you keep this to mostly just requests regarding the topic below. Thanks!
+
+----------</description>
+    </item>
+    <item rdf:about="https://lurker.pro/music/basics?rev=1509126041&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-27T17:40:41+00:00</dc:date>
+        <dc:creator>lurker</dc:creator>
+        <title>music:basics - created</title>
+        <link>https://lurker.pro/music/basics?rev=1509126041&amp;do=diff</link>
+        <description>Basics
+
+Articles related to the basics of music production.
+
+Articles:</description>
+    </item>
+    <item rdf:about="https://lurker.pro/terms/a?rev=1508980082&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-26T01:08:02+00:00</dc:date>
+        <dc:creator>lurker</dc:creator>
+        <title>terms:a</title>
+        <link>https://lurker.pro/terms/a?rev=1508980082&amp;do=diff</link>
+        <description>A</description>
+    </item>
+    <item rdf:about="https://lurker.pro/terms/a/attack?rev=1508979299&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-26T00:54:59+00:00</dc:date>
+        <dc:creator>lurker</dc:creator>
+        <title>terms:a:attack</title>
+        <link>https://lurker.pro/terms/a/attack?rev=1508979299&amp;do=diff</link>
+        <description>Attack
+
+The “attack” of a sound (more commonly attack) is the time a sound takes to get from its zero point to its peak.</description>
+    </item>
+    <item rdf:about="https://lurker.pro/?image=terms%3Aa%3Aattack_and_decay.jpg&amp;ns=terms%3Aa&amp;rev=1508977863&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-26T00:31:03+00:00</dc:date>
+        <dc:creator>lurker</dc:creator>
+        <title>terms:a:attack_and_decay.jpg - metadata edited</title>
+        <link>https://lurker.pro/?image=terms%3Aa%3Aattack_and_decay.jpg&amp;ns=terms%3Aa&amp;rev=1508977863&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;https://lurker.pro/_media/terms/a/attack_and_decay.jpg?w=381&amp;h=286&amp;t=1508977863&amp;amp;tok=ab8baa&quot; alt=&quot;terms:a:attack_and_decay.jpg&quot; /&gt;</description>
+    </item>
+    <item rdf:about="https://lurker.pro/terms?rev=1508968630&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-25T21:57:10+00:00</dc:date>
+        <dc:creator>lurker</dc:creator>
+        <title>terms</title>
+        <link>https://lurker.pro/terms?rev=1508968630&amp;do=diff</link>
+        <description>0-9
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+J
+
+K
+
+L
+
+M
+
+N
+
+O
+
+P
+
+Q
+
+R
+
+S
+
+T
+
+U
+
+V
+
+W
+
+X
+
+Y
+
+Z</description>
+    </item>
+    <item rdf:about="https://lurker.pro/terms/0-9?rev=1508967941&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-25T21:45:41+00:00</dc:date>
+        <dc:creator>lurker</dc:creator>
+        <title>terms:0-9</title>
+        <link>https://lurker.pro/terms/0-9?rev=1508967941&amp;do=diff</link>
+        <description>0-9</description>
+    </item>
+    <item rdf:about="https://lurker.pro/?image=reaper%3Aplugins%3Area_eq.png&amp;ns=reaper%3Aplugins&amp;rev=1508959153&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-25T19:19:13+00:00</dc:date>
+        <dc:creator>lurker</dc:creator>
+        <title>reaper:plugins:rea_eq.png - created</title>
+        <link>https://lurker.pro/?image=reaper%3Aplugins%3Area_eq.png&amp;ns=reaper%3Aplugins&amp;rev=1508959153&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;https://lurker.pro/_media/reaper/plugins/rea_eq.png?w=500&amp;h=350&amp;t=1508959153&amp;amp;tok=8a2ec9&quot; alt=&quot;reaper:plugins:rea_eq.png&quot; /&gt;</description>
+    </item>
+    <item rdf:about="https://lurker.pro/?image=reason%3Aplugins%3Athor.jpg&amp;ns=reason%3Aplugins&amp;rev=1508811802&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-24T02:23:22+00:00</dc:date>
+        <dc:creator>nyvern</dc:creator>
+        <title>reason:plugins:thor.jpg - created</title>
+        <link>https://lurker.pro/?image=reason%3Aplugins%3Athor.jpg&amp;ns=reason%3Aplugins&amp;rev=1508811802&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;https://lurker.pro/_media/reason/plugins/thor.jpg?w=500&amp;h=410&amp;t=1508811802&amp;amp;tok=0425b0&quot; alt=&quot;reason:plugins:thor.jpg&quot; /&gt;</description>
+    </item>
+    <item rdf:about="https://lurker.pro/?image=reason%3Aplugins%3Asubtractor.jpg&amp;ns=reason%3Aplugins&amp;rev=1508811469&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-24T02:17:49+00:00</dc:date>
+        <dc:creator>nyvern</dc:creator>
+        <title>reason:plugins:subtractor.jpg - created</title>
+        <link>https://lurker.pro/?image=reason%3Aplugins%3Asubtractor.jpg&amp;ns=reason%3Aplugins&amp;rev=1508811469&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;https://lurker.pro/_media/reason/plugins/subtractor.jpg?w=500&amp;h=182&amp;t=1508811469&amp;amp;tok=4ebdae&quot; alt=&quot;reason:plugins:subtractor.jpg&quot; /&gt;</description>
+    </item>
+    <item rdf:about="https://lurker.pro/?image=reason%3Aplugins%3Aredrum.jpg&amp;ns=reason%3Aplugins&amp;rev=1508810704&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-24T02:05:04+00:00</dc:date>
+        <dc:creator>nyvern</dc:creator>
+        <title>reason:plugins:redrum.jpg - created</title>
+        <link>https://lurker.pro/?image=reason%3Aplugins%3Aredrum.jpg&amp;ns=reason%3Aplugins&amp;rev=1508810704&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;https://lurker.pro/_media/reason/plugins/redrum.jpg?w=500&amp;h=228&amp;t=1508810704&amp;amp;tok=f4ebfc&quot; alt=&quot;reason:plugins:redrum.jpg&quot; /&gt;</description>
+    </item>
+    <item rdf:about="https://lurker.pro/?image=reaper%3Aplugins%3Areacomp.png&amp;ns=reaper%3Aplugins&amp;rev=1508805888&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-24T00:44:48+00:00</dc:date>
+        <dc:creator>lurker</dc:creator>
+        <title>reaper:plugins:reacomp.png - created</title>
+        <link>https://lurker.pro/?image=reaper%3Aplugins%3Areacomp.png&amp;ns=reaper%3Aplugins&amp;rev=1508805888&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;https://lurker.pro/_media/reaper/plugins/reacomp.png?w=500&amp;h=321&amp;t=1508805888&amp;amp;tok=d0729f&quot; alt=&quot;reaper:plugins:reacomp.png&quot; /&gt;</description>
+    </item>
+    <item rdf:about="https://lurker.pro/?image=reason%3Aplugins%3Akong.jpg&amp;ns=reason%3Aplugins&amp;rev=1508805303&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-24T00:35:03+00:00</dc:date>
+        <dc:creator>lurker</dc:creator>
+        <title>reason:plugins:kong.jpg - created</title>
+        <link>https://lurker.pro/?image=reason%3Aplugins%3Akong.jpg&amp;ns=reason%3Aplugins&amp;rev=1508805303&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;https://lurker.pro/_media/reason/plugins/kong.jpg?w=500&amp;h=411&amp;t=1508805303&amp;amp;tok=af57cd&quot; alt=&quot;reason:plugins:kong.jpg&quot; /&gt;</description>
+    </item>
+    <item rdf:about="https://lurker.pro/?image=lurker%3Atable-editingold.png&amp;ns=lurker&amp;rev=1508789910&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-23T20:18:30+00:00</dc:date>
+        <dc:creator>lurker</dc:creator>
+        <title>lurker:table-editingold.png - created</title>
+        <link>https://lurker.pro/?image=lurker%3Atable-editingold.png&amp;ns=lurker&amp;rev=1508789910&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;https://lurker.pro/_media/lurker/table-editingold.png?w=500&amp;h=305&amp;t=1508789910&amp;amp;tok=d87032&quot; alt=&quot;lurker:table-editingold.png&quot; /&gt;</description>
+    </item>
+    <item rdf:about="https://lurker.pro/?image=lurker%3Atable-editwindow.png&amp;ns=lurker&amp;rev=1508788852&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-23T20:00:52+00:00</dc:date>
+        <dc:creator>lurker</dc:creator>
+        <title>lurker:table-editwindow.png - created</title>
+        <link>https://lurker.pro/?image=lurker%3Atable-editwindow.png&amp;ns=lurker&amp;rev=1508788852&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;https://lurker.pro/_media/lurker/table-editwindow.png?w=500&amp;h=311&amp;t=1508788852&amp;amp;tok=57e424&quot; alt=&quot;lurker:table-editwindow.png&quot; /&gt;</description>
+    </item>
+    <item rdf:about="https://lurker.pro/?image=ableton%3Aplugins%3Aeq8.gif&amp;ns=ableton%3Aplugins&amp;rev=1508782915&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-23T18:21:55+00:00</dc:date>
+        <dc:creator>jwfeniello</dc:creator>
+        <title>ableton:plugins:eq8.gif - created</title>
+        <link>https://lurker.pro/?image=ableton%3Aplugins%3Aeq8.gif&amp;ns=ableton%3Aplugins&amp;rev=1508782915&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;https://lurker.pro/_media/ableton/plugins/eq8.gif?w=500&amp;h=268&amp;t=1508782915&amp;amp;tok=618f29&quot; alt=&quot;ableton:plugins:eq8.gif&quot; /&gt;</description>
+    </item>
+</rdf:RDF>

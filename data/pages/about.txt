@@ -1,0 +1,5 @@
+====== About ======
+
+/* Hi! While I don't "require" this page to be kept in the wiki, I'd prefer my name to stay on the project at least a little. However, you're free to delete this page if you see fit. Thanks for keeping the project alive! */
+
+Lurker is an open source music production wiki, originally created by Judah (Kyotoshift). The original goal for Lurker was to be a place for all producers---regardless of skill---to make the learning aspects of music production more approachable, as well as 100% free. Unfortunately Judah was unable to maintain Lurker, thus making it open source for anyone to build upon it.

@@ -1,0 +1,26 @@
+====== Lurker Pro ======
+This page contains important information regarding [[https://lurker.pro|Lurker]].
+
+<WRAP group>
+<WRAP column 100%>
+<WRAP group>
+<WRAP half column>
+====Style====
+  * [[lurker:style_guide|Style Guide – Overall style of Lurker]]<color #ed1c24>*</color>
+
+====Editing====
+  * [[lurker:basics|Basics – Making and editing your first post.]]
+  * [[lurker:advanced|Advanced – Using plugins for better pages.]]
+
+====Misc====
+  * [[wiki:syntax|Syntax – DokuWiki Syntax.]]
+  * [[lurker:plugins|Plugins – A list of the installed plugins on Lurker.]]
+
+</WRAP>
+
+</WRAP>
+</WRAP>
+
+----
+<color #ed1c24><fs small>//* important//</fs></color>
+

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="https://lurker.pro/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://lurker.pro/feed.php">
+        <title>Lurker resources</title>
+        <description></description>
+        <link>https://lurker.pro/</link>
+        <image rdf:resource="https://lurker.pro/_media/wiki/favicon.ico" />
+       <dc:date>2017-11-05T22:31:39+00:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://lurker.pro/resources/video?rev=1509472188&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/resources/written?rev=1508821129&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="https://lurker.pro/_media/wiki/favicon.ico">
+        <title>Lurker</title>
+        <link>https://lurker.pro/</link>
+        <url>https://lurker.pro/_media/wiki/favicon.ico</url>
+    </image>
+    <item rdf:about="https://lurker.pro/resources/video?rev=1509472188&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-31T17:49:48+00:00</dc:date>
+        <title>resources:video</title>
+        <link>https://lurker.pro/resources/video?rev=1509472188&amp;do=diff</link>
+        <description>Video
+
+	*  Deadmau5 - Masterclass
+	*  Hans Zimmer - Masterclass
+	*   Mixing 101 - Wickiemedia</description>
+    </item>
+    <item rdf:about="https://lurker.pro/resources/written?rev=1508821129&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-24T04:58:49+00:00</dc:date>
+        <title>resources:written</title>
+        <link>https://lurker.pro/resources/written?rev=1508821129&amp;do=diff</link>
+        <description>Written
+
+	*  How Music Works by David Byrne
+	*  Creative Strategies for Electronic Music Producers by Various</description>
+    </item>
+</rdf:RDF>

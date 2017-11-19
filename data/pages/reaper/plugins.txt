@@ -1,0 +1,11 @@
+====== Reaper: Plugins ======
+
+<WRAP group>
+<WRAP column 100%>
+{{simplenavi>reaper:plugins}}
+
+</WRAP>
+</WRAP>
+
+
+

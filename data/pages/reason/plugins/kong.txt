@@ -1,0 +1,36 @@
+====== Kong Drum Designer ======
+
+<WRAP group>
+<WRAP right column 35%>
+[{{ :reason:plugins:kong.jpg?direct|Kong in Reason.}}]
+</WRAP>
+
+<WRAP columns>
+The Kong Drum Designer gives the visual impression of a pattern-based drum machine, like the legendary MPC units. Indeed, it does have a matrix of 4 x 4 pads that are used for playing the sounds, just like the aforementioned classics. There are significant differences, however.
+
+Kong features 16 drum “sound channels” that can host one drum sound each. Each drum sound can consist of a sound module routed through various types of FX and processing modules, allowing for completely open-ended sound design possibilities. 
+ 
+Individual drum sounds can be saved as Drum Patches and complete drum kits can be saved as Kit Patches, allowing you to mix and match drum sounds and make up custom kits with ease.
+
+In addition, Kong also has sampling capability. This means that you can sample your own sounds straight into any of the 16 drum channels with just a click of a button!
+
+/* I formatted the post to fit the style. feel free to add the rest of the content below this, then remove the slash-asterisk to uncomment on the page.
+
+==== Control 1 ====
+Replace with information about a feature of the plugin.
+
+<WRAP right column 35%>
+Replace with image of plugin no sizing tags. (optional)
+</WRAP>
+
+==== Control 2 ====
+
+Replace with information about another main feature of the plugin.
+
+(continue to add more information if needed)*/
+</WRAP>
+</WRAP>
+
+
+
+

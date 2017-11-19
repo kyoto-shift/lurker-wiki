@@ -1,0 +1,20 @@
+Lurker features a few site-specific plugins to increase functionality. Below lists and redirects to documentation of said plugins.
+
+===== Frequent =====
+
+  * [[https://www.dokuwiki.org/plugin:simplenavi|Simplenavi]] by Andreas Gohr
+  * [[https://www.dokuwiki.org/plugin:gallery|Gallery]] by Andreas Gohr
+  * [[https://www.dokuwiki.org/plugin:wrap|Wrap]] by Anika Henke
+  * [[https://www.dokuwiki.org/plugin:imagebox|Imagebox]] by Lukas Rademacher, FFTiger & myst6re
+  * [[https://www.dokuwiki.org/plugin:refnotes|RefNotes]] by Mykola Ostrovskyy
+  * [[https://www.dokuwiki.org/plugin:fontsize2|Fontsize2]] by Thorsten Stratmann
+
+
+
+===== Syntax =====
+~~INFO:syntaxplugins~~
+
+===== Renderer =====
+~~INFO:rendererplugins~~
+
+

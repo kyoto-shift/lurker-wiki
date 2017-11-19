@@ -1,0 +1,43 @@
+<WRAP group>
+
+<WRAP column 100%>
+<box round #f2f2f2 100%>
+<fs large>**What is lurker.pro?**</fs>\\
+
+<fs small>[[https://lurker.pro|Lurker]] is a wiki focused around audio and music production. The goal of this project is to make learning about the various aspects of audio and music more approachable for everyone.
+
+If you're interested in helping Lurker become a better resource, [[lurker|check out our guides on editing]]!</fs>
+</box>
+</WRAP>
+</WRAP>
+
+<WRAP group #homeflex>
+
+<box #f2f2f2 homebox round 20%><wrap #lhbi>[[music|{{fa>headphones?64}}]]</wrap><wrap #lhbt>Production</wrap></box>
+<box #f2f2f2 homebox round 20%><wrap #lhbi>[[resources|{{fa>list-alt?64}}]]</wrap><wrap #lhbt>Resources</wrap></box>
+<box #f2f2f2 homebox round 20%><wrap #lhbi>[[requests|{{fa>exclamation?64}}]]</wrap><wrap #lhbt>Requests</wrap></box> 
+<box #f2f2f2 homebox round 20%><wrap #lhbi>[[lurker|{{fa>question-circle ?64}}]]</wrap><wrap #lhbt>Help</wrap></box> 
+
+
+
+</WRAP>
+
+<WRAP group>
+<WRAP half column>
+<box #f2f2f2 100%><color #ffffff><fs small>[[recent|Recent Changes]]</fs></color></box>
+{{changes>render = list(signature)&count = 10&ns = -sandbox, -media, -editing, -template, -design& excludedusers=lurker}}
+</WRAP>
+
+<WRAP half column>
+<box #ffc4c4 100%><fs small><color #CC0000>[[tasks|Help Needed]]</color></fs></box>
+<fs small>//Lurker is extremely short on editors. 
+Please help us in any way you can.//</fs>
+
+  * Help create pages for DAW specific plugins.
+  * Write guides audio or music production techniques.
+</WRAP>
+
+</WRAP>
+
+
+

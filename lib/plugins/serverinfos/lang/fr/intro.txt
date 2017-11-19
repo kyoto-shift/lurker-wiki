@@ -1,0 +1,2 @@
+Cet [[doku>serverinfos|outil]] permet de connaitre l'état de son serveur Dokuwiki
+

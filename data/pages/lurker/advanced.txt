@@ -1,0 +1,121 @@
+====== Lurker Pro: Advanced Editing ======
+
+Our installation of DokuWiki allows many options for customizing the way pages are designed. While you are able to use the editing interface located at the top of every editing window, there are a few bits of code that---while not available from the editing bar---are very helpful in making a pages content more readable. This guide will give a more advanced look at how to do so. If you are new to editing wiki pages, it's preferred that you read the [[lurker:basics|basic editing guide]] first, then redirect back to this guide.
+
+===== Columns =====
+
+Columns serve as a means to format content in a more efficient way. While they're not particularly needed in a page or article, they allow other editors to edit a specific page in a less destructive way. A basic way to create a column is to use the following code:
+
+
+<code>
+<WRAP half column>
+Column 1 Left
+</WRAP>
+
+<WRAP half column>
+Column 2 Right
+</WRAP>
+
+</WRAP>
+</code>
+
+The above code creates two even-width columns. The content in between the ''%%<WRAP half column>%%'' tag, and the ''%%</WRAP>%%'' will be formatted automatically based on the other block of similar code. To put more simply, **Column 1 Left** will reposition based on **Column 2 Right**. This allows formatting without the worry of how much text is one area compared to another. The ''%%<WRAP>%%'' tag has a few other usable parameters that change its function. This guide will not go over complete functionality of WRAP. For more information, take a look at [[https://www.dokuwiki.org/plugin:wrap|WRAP's documentation]].
+
+==== Width ====
+
+Columns in WRAP are very flexible to how they can be sized. While WRAP allows the use of parameters such as ''half'', ''third'', or ''quarter'', it's better to use more absolute measurements. Absolute measurements ensure content will be displayed somewhat consistently on different devices. The following parameters may be used to change a column's width.
+
+  * ''%'' -- Allows the width to change based on the size of the window. (ex. 50%)
+  * ''em'' -- Gives a flexible value based on the current font size(("An em is a CSS unit that measures the size of a font, from the top of a font’s cap height to
+the bottom of its lowest descender. Originally, the em was equal to the width of the capital
+letter M, which is where its name originated." -- //Source: The Principles of Beautiful Web Design by Jason Beaird//)). (ex. 0.75em)
+  * ''px'' -- Gives an absolute value based on Pixels. (ex. 150px)
+  * ''ex'' -- Gives an absolute value based on the x-width of the current font size. (ex. 1ex)
+  * ''pt'' -- Gives an absolute value based on 1/72 of 1 inch. (ex. 25pt)
+  * ''pc'' -- Gives an absolute value based on 12 points. (ex. 2.5pc)
+  * ''cm'' -- Gives an absolute value based on centimeters. (ex. 10cm)
+  * ''mm'' -- Gives an absolute value based on millimeters. (ex. 2.5mm)
+  * ''in'' -- Gives an absolute value based on inches. (ex. 0.2in)
+
+The preferred method of sizing is ''%'' (percentage) due to it's flexibility and ease of use. When in doubt, stick to using percent-based sizing.
+
+
+===== Images =====
+
+Images may be uploaded to Lurker using a few different methods. The preferred way is to use the image button in the editing window, as it generates the proper code for you. You may also drag and drop an image into the editing window, which will upload to the namespace you are currently editing it. It will not generate any code, but may be easier. In any case, if you know the location an already uploaded image, you may manually display it by using the following bit of code.
+
+''%%{{WIKILOCATION:FILENAME.PNG/JPG/ETC|}}%%''
+
+This will display the current image in it's uploaded size. But since our DokuWiki installation allows image resizing, you may add ''%%?NUMBER%%'' to the end of the file extension, which will alter its size based on the number given.
+
+However, while this is an easy way to display an image, it's preferred use to place single square brackets ''%%[ ]%%'' outside of the doubled curly braces ''%%{{ }}%%''. Doing this allows a caption to be passed to the displayed image, while also drawing a box around the image. The separation of image and page gives everything a better look, while allowing context to be added to the image. For example, the following code gives this result:
+<WRAP group>
+<WRAP centeralign>
+
+''%%[{{ :ableton:live9suite-e-xlarge.jpg?direct&200 |Ableton Live 9 Suite}}]%%'' ((Using the pipe operator ( | ) after the image and its parameters allows captioning. The caption will not be passed through unless the pipe operator is used.))
+
+[{{ :ableton:live9suite-e-xlarge.jpg?direct&200 |Ableton Live 9 Suite}}]
+</WRAP>
+</WRAP>
+
+===== Font Colors & Sizes =====
+
+Using the plugin [[https://www.dokuwiki.org/plugin:fontsize2|Fontsize2]], the size of the text may be changed based on ''em'', ''ex'', ''%'', ''px'', and css keywords((xx-small , x-small, small, medium, large, x-large, xx-large.)). For example, the following code gives the following result:
+
+<WRAP group>
+<WRAP centeralign>
+''%%<fs 1.5em>This text is 1.5em!</fs>%%''
+
+<fs 1.5em>This text is 1.5em!</fs>
+</WRAP>
+</WRAP>
+
+To change the text's color, the [[https://www.dokuwiki.org/plugin:color|Color]] plugin may be used. The plugin supports [[https://en.wikipedia.org/wiki/X11_color_names#Color_name_chart|X11 Color Names]] and [[https://en.wikipedia.org/wiki/Web_colors|Hex Color Codes]]. The following code gives the following result:
+
+<WRAP group>
+<WRAP centeralign>
+''%%<color red>Red text</color>%%''\\
+<color red>Red text</color>
+|
+''%%<color #FF0000>Red text</color>%%''\\
+<color #Fffa11>Yellow text</color>
+</WRAP>
+</WRAP>
+
+If a background color surrounding text is necessary, you may use a forward slash ( / ) and pass two colors. The first color is the text color, the second being the box color. The following code gives the following result:
+
+<WRAP group>
+<WRAP centeralign>
+''%%<color blue/lightgreen>Blue text, light green background</color>%%''\\
+<color blue/lightgreen>Blue text, light green background</color>
+|
+''%%<color #FF0000/#Fffa11>Red text, yellow background</color>%%''\\
+<color #FF0000/#Fffa11>Red text, yellow background</color>
+</WRAP>
+</WRAP>
+
+===== Tables =====
+
+<WRAP group>
+
+<WRAP right column 35%>
+[{{ :lurker:table-editwindow.png?direct|Table editing window.}}]
+</WRAP>
+<WRAP columns>
+Compared to lists, tables format content in a more absolute manner. Tables allow better organization of complicated values, and are to be used when:
+  * a list of items require two or more variables;
+  * a list requires multiple columns;
+  * a list contains version numbers;
+  * a [[https://en.wikipedia.org/wiki/Table_(information)#Multi-dimensional_table|multi-dimensional format]] is more appropriate.
+</WRAP>
+
+</WRAP>
+
+<WRAP group>
+<WRAP right column 35%>
+[{{ :lurker:table-editingold.png?direct|Editing a pre-existing table.}}]
+</WRAP>
+<WRAP columns>
+Using the plugin [[https://www.dokuwiki.org/plugin:edittable|EditTable]], you are able to generate and edit tables in a less destructive way. Clicking the table editing button in the editing bar will redirect you to the table editing page. Once there, you may now begin editing. The process is similar to that of Microsoft Office, Open Office, and Google Spreadsheets. When completed((Remember to save your tables just as you would pages.)), you will be redirected back to the article with the code of your new table inserted where you had originally clicked. To edit a pre-existing table, navigate to any page with a table. Below all tables will be a small editing button. Clicking that button will redirect you to the table editing page. 
+<WRAP>
+</WRAP>

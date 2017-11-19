@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="https://lurker.pro/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://lurker.pro/feed.php">
+        <title>Lurker</title>
+        <description></description>
+        <link>https://lurker.pro/</link>
+        <image rdf:resource="https://lurker.pro/_media/wiki/favicon.ico" />
+       <dc:date>2017-11-10T12:10:51+00:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://lurker.pro/ableton?rev=1508825186&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/cubase?rev=1508825239&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/flstudio?rev=1508858022&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/g?rev=1508472632&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/logic?rev=1508825292&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/lurker?rev=1508826100&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/main?rev=1508818212&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/music?rev=1508818733&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/protools?rev=1508825386&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/reaper?rev=1508825410&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/reason?rev=1508825431&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/recent?rev=1508474157&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/requests?rev=1508472632&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/resources?rev=1508818158&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/sidebar?rev=1508860235&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/studio_one?rev=1508860198&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/tasks?rev=1508742126&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/terms?rev=1508968630&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="https://lurker.pro/_media/wiki/favicon.ico">
+        <title>Lurker</title>
+        <link>https://lurker.pro/</link>
+        <url>https://lurker.pro/_media/wiki/favicon.ico</url>
+    </image>
+    <item rdf:about="https://lurker.pro/ableton?rev=1508825186&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-24T06:06:26+00:00</dc:date>
+        <title>ableton</title>
+        <link>https://lurker.pro/ableton?rev=1508825186&amp;do=diff</link>
+        <description>Ableton Live: Overview
+
+Ableton Live is a software music sequencer and digital audio workstation for macOS and Windows. The latest major release of Live, Version 9, was released on March 5, 2013. In contrast to many other software sequencers, Live is designed to be an instrument for live performances as well as a tool for composing, recording, arranging, mixing, and mastering. It is also used by DJs, as it offers a suite of controls for beatmatching, crossfading, and other effects used by turnta…</description>
+    </item>
+    <item rdf:about="https://lurker.pro/cubase?rev=1508825239&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-24T06:07:19+00:00</dc:date>
+        <title>cubase</title>
+        <link>https://lurker.pro/cubase?rev=1508825239&amp;do=diff</link>
+        <description>Cubase: Overview
+
+Cubase is a music software product developed by German musical software and equipment company Steinberg (Steinberg Media Technologies GmbH) for music recording, arranging and editing as part of a digital audio workstation. The first version, which ran on the Atari ST computer and recorded via MIDI only, was released in 1989.</description>
+    </item>
+    <item rdf:about="https://lurker.pro/flstudio?rev=1508858022&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-24T15:13:42+00:00</dc:date>
+        <title>flstudio</title>
+        <link>https://lurker.pro/flstudio?rev=1508858022&amp;do=diff</link>
+        <description>FL Studio: Overview
+
+FL Studio (formerly known as FruityLoops) is a digital audio workstation (DAW) developed by the Belgian company Image-Line. FL Studio features a graphical user interface based on a pattern-based music sequencer. The program is available in three different editions for Microsoft Windows, including Fruity Edition, Producer Edition, and the Signature Bundle. Image-Line offers lifetime free updates to the program, which means customers receive all future updates of the software …</description>
+    </item>
+    <item rdf:about="https://lurker.pro/g?rev=1508472632&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-20T04:10:32+00:00</dc:date>
+        <title>g</title>
+        <link>https://lurker.pro/g?rev=1508472632&amp;do=diff</link>
+        <description>General Production</description>
+    </item>
+    <item rdf:about="https://lurker.pro/logic?rev=1508825292&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-24T06:08:12+00:00</dc:date>
+        <title>logic</title>
+        <link>https://lurker.pro/logic?rev=1508825292&amp;do=diff</link>
+        <description>Logic Pro: Overview
+
+Logic Pro is a digital audio workstation and MIDI sequencer software application for the macOS platform. It was originally created in the early 1990s as Notator Logic, or Logic, by German software developer C-Lab, later Emagic. It became an Apple product, eventually known as Logic Pro, after Apple bought Emagic in 2002. It is the 2nd most popular digital audio workstation (DAW) according to a survey conducted in 2015.</description>
+    </item>
+    <item rdf:about="https://lurker.pro/lurker?rev=1508826100&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-24T06:21:40+00:00</dc:date>
+        <title>lurker</title>
+        <link>https://lurker.pro/lurker?rev=1508826100&amp;do=diff</link>
+        <description>Lurker Pro
+
+This page contains important information regarding Lurker.
+
+Style
+
+	*  Style Guide – Overall style of Lurker
+
+Editing
+
+	*  Basics – Making and editing your first post.
+	*  Advanced – Using plugins for better pages.
+
+Misc
+
+	*  Syntax – DokuWiki Syntax.
+	*  Plugins – A list of the installed plugins on Lurker.
+
+----------
+
+* important</description>
+    </item>
+    <item rdf:about="https://lurker.pro/main?rev=1508818212&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-24T04:10:12+00:00</dc:date>
+        <title>main</title>
+        <link>https://lurker.pro/main?rev=1508818212&amp;do=diff</link>
+        <description>What is lurker.pro?
+
+Lurkercheck out our guides on editing
+ProductionResourcesRequestsHelpRecent ChangesHelp Needed
+Lurker is extremely short on editors. 
+Please help us in any way you can.
+
+	*  Help create pages for DAW specific plugins.
+	*  Write guides audio or music production techniques.</description>
+    </item>
+    <item rdf:about="https://lurker.pro/music?rev=1508818733&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-24T04:18:53+00:00</dc:date>
+        <title>music</title>
+        <link>https://lurker.pro/music?rev=1508818733&amp;do=diff</link>
+        <description>Music Production
+
+Below lists various topics in the field of music production, mixing, and sound design. 
+
+Categories</description>
+    </item>
+    <item rdf:about="https://lurker.pro/protools?rev=1508825386&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-24T06:09:46+00:00</dc:date>
+        <title>protools</title>
+        <link>https://lurker.pro/protools?rev=1508825386&amp;do=diff</link>
+        <description>Pro Tools: Overview
+
+Pro Tools is a digital audio workstation developed and released by Avid Technology for the Microsoft Windows and OS X operating systems which can be used for a wide range of sound recording and sound production purposes. Pro Tools can run as standalone software, or operate using a range of external analog/digital converters and internal PCI Local Bus (PCI) or PCIe audio cards with onboard digital signal processors (DSP) to provide effects such as reverb and compression.</description>
+    </item>
+    <item rdf:about="https://lurker.pro/reaper?rev=1508825410&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-24T06:10:10+00:00</dc:date>
+        <title>reaper</title>
+        <link>https://lurker.pro/reaper?rev=1508825410&amp;do=diff</link>
+        <description>Reaper: Overview
+
+REAPER (an acronym for rapid environment for audio production, engineering, and recording) is a multitrack recording and a digital audio workstation created by Cockos. The current version is available for Microsoft Windows (XP and newer) and macOS (10.5 and newer) – beta versions are also available for Linux. REAPER acts as a host to most industry standard plugin formats (such as VST and AU) and can import all commonly-used media formats, including video. REAPER and its include…</description>
+    </item>
+    <item rdf:about="https://lurker.pro/reason?rev=1508825431&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-24T06:10:31+00:00</dc:date>
+        <title>reason</title>
+        <link>https://lurker.pro/reason?rev=1508825431&amp;do=diff</link>
+        <description>Reason: Overview
+
+Reason is a digital audio workstation for creating and editing music and audio developed by Swedish software developers Propellerhead Software. It emulates a rack of hardware synthesizers, samplers, signal processors, sequencers, and mixers, all of which can be freely interconnected in an arbitrary manner. Reason can be used either as a complete virtual music studio or as a set of virtual instruments to be used with other sequencing software in a fashion that mimics live perfor…</description>
+    </item>
+    <item rdf:about="https://lurker.pro/recent?rev=1508474157&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-20T04:35:57+00:00</dc:date>
+        <title>recent</title>
+        <link>https://lurker.pro/recent?rev=1508474157&amp;do=diff</link>
+        <description></description>
+    </item>
+    <item rdf:about="https://lurker.pro/requests?rev=1508472632&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-20T04:10:32+00:00</dc:date>
+        <title>requests</title>
+        <link>https://lurker.pro/requests?rev=1508472632&amp;do=diff</link>
+        <description>Feel free to post any requests here!
+
+----------</description>
+    </item>
+    <item rdf:about="https://lurker.pro/resources?rev=1508818158&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-24T04:09:18+00:00</dc:date>
+        <title>resources</title>
+        <link>https://lurker.pro/resources?rev=1508818158&amp;do=diff</link>
+        <description>Resources
+
+Below lists (chronologically) various external resources that should not be listed on any other page.
+
+Video
+
+	*  Deadmau5 - Masterclass
+	*  Hans Zimmer - Masterclass
+	*   Mixing 101 - Wickiemedia
+
+Written
+
+	*  How Music Works by David Byrne
+	*  Creative Strategies for Electronic Music Producers by Various</description>
+    </item>
+    <item rdf:about="https://lurker.pro/sidebar?rev=1508860235&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-24T15:50:35+00:00</dc:date>
+        <title>sidebar</title>
+        <link>https://lurker.pro/sidebar?rev=1508860235&amp;do=diff</link>
+        <description>Ableton Live
+
+	*  Overview
+	*  Plugins
+	*  Guides
+	*  Miscellaneous
+
+Cubase
+
+	*  Overview
+	*  Plugins
+	*  Guides
+	*  Miscellaneous
+
+FL Studio
+
+	*  Overview
+	*  Plugins
+	*  Guides
+	*  Miscellaneous
+
+Logic Pro
+
+	*  Overview
+	*  Plugins
+	*  Guides
+	*  Miscellaneous
+
+Pro Tools
+
+	*  Overview
+	*  Plugins
+	*  Guides
+	*  Miscellaneous
+
+Reaper
+
+	*  Overview
+	*  Plugins
+	*  Guides
+	*  Miscellaneous
+
+Reason
+
+	*  Overview
+	*  Plugins
+	*  Guides
+	*  Miscellaneous
+
+Studio One
+
+	*  Overview
+	*  Plugins
+	*  Gui…</description>
+    </item>
+    <item rdf:about="https://lurker.pro/studio_one?rev=1508860198&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-24T15:49:58+00:00</dc:date>
+        <title>studio_one</title>
+        <link>https://lurker.pro/studio_one?rev=1508860198&amp;do=diff</link>
+        <description>Studio One: Overview
+
+Studio One is a DAW used to create, record, and master music, made by PreSonus Software, for Mac OS X and Windows.
+
+Studio One is low on content! If you'd like to help, get started by reading our editing guides!
+
+Plugins:
+
+Guides:
+
+----------
+
+Miscellaneous:
+
+
+
+	*  Video</description>
+    </item>
+    <item rdf:about="https://lurker.pro/tasks?rev=1508742126&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-23T07:02:06+00:00</dc:date>
+        <title>tasks</title>
+        <link>https://lurker.pro/tasks?rev=1508742126&amp;do=diff</link>
+        <description>Wiki Tasks
+
+This page lists various tasks in need of completion around Lurker. If you're looking to contribute but aren't sure of where to start, take a look at the list below.
+
+Editorial
+
+----------
+
+High Priority
+
+	*  Create pages for DAW specific stock plugins (eq, compressor, fx, etc).</description>
+    </item>
+    <item rdf:about="https://lurker.pro/terms?rev=1508968630&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-25T21:57:10+00:00</dc:date>
+        <title>terms</title>
+        <link>https://lurker.pro/terms?rev=1508968630&amp;do=diff</link>
+        <description>0-9
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+J
+
+K
+
+L
+
+M
+
+N
+
+O
+
+P
+
+Q
+
+R
+
+S
+
+T
+
+U
+
+V
+
+W
+
+X
+
+Y
+
+Z</description>
+    </item>
+</rdf:RDF>

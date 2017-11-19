@@ -1,0 +1,11 @@
+====== Max for Live ======
+
+<WRAP group>
+<WRAP column 100%>
+Max for Live is a visual programming environment based off of [[https://cycling74.com/products/max|Max by Cycling'74]] for use within Ableton Live. Max for Live (M4L) was created to allow the Max engine to run as a MIDI or FX device (whereas Max is standalone software). Max for Live is bundled with the Suite version of Live 9, however Live Standard users can purchase it separately. It is not available for the Lite or Intro versions.
+
+</WRAP>
+</WRAP>
+
+
+

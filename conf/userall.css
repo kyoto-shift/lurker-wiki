@@ -1,0 +1,63 @@
+@media only screen and (max-width:800px){
+#lhbt{
+display: none !important;
+}
+
+#lhbi{
+font-size: 10vw !important;
+display: block;
+padding: 5px !important;
+}
+}
+
+@media only screen and (max-width:580px){
+#lhbt{
+display: none !important;
+}
+
+#lhbi{
+font-size: 10vw !important;
+display: block;
+padding: 5px !important;
+}
+
+#lhbi i{
+font-size: 10vw !important;
+}
+}
+
+#homeflex{
+display: flex !important;
+}
+
+.homebox{
+text-align: center;
+margin: 0 auto;
+}
+
+#lhbi{
+color: #6f6f6f;
+display: block;
+}
+
+#lhbt{
+color: #969696;
+font-weight: bolder;
+}
+
+.spoiler .title{
+display: none !important;
+}
+
+.spoiler .content{
+border: none !important;
+}
+
+.spoilerbtn{
+width: 4em !important;
+font-size: 12px !important;
+}
+
+#terms-l h1{
+font-size: 1.5em !important;
+}

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="https://lurker.pro/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://lurker.pro/feed.php">
+        <title>Lurker lurker</title>
+        <description></description>
+        <link>https://lurker.pro/</link>
+        <image rdf:resource="https://lurker.pro/_media/wiki/favicon.ico" />
+       <dc:date>2017-11-04T04:50:48+00:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://lurker.pro/lurker/advanced?rev=1508791055&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/lurker/basics?rev=1508733698&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/lurker/plugins?rev=1508559679&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/lurker/style_guide?rev=1508859821&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="https://lurker.pro/_media/wiki/favicon.ico">
+        <title>Lurker</title>
+        <link>https://lurker.pro/</link>
+        <url>https://lurker.pro/_media/wiki/favicon.ico</url>
+    </image>
+    <item rdf:about="https://lurker.pro/lurker/advanced?rev=1508791055&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-23T20:37:35+00:00</dc:date>
+        <title>lurker:advanced</title>
+        <link>https://lurker.pro/lurker/advanced?rev=1508791055&amp;do=diff</link>
+        <description>Lurker Pro: Advanced Editing
+
+Our installation of DokuWiki allows many options for customizing the way pages are designed. While you are able to use the editing interface located at the top of every editing window, there are a few bits of code that---</description>
+    </item>
+    <item rdf:about="https://lurker.pro/lurker/basics?rev=1508733698&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-23T04:41:38+00:00</dc:date>
+        <title>lurker:basics</title>
+        <link>https://lurker.pro/lurker/basics?rev=1508733698&amp;do=diff</link>
+        <description>Lurker Pro: Basics of Editing
+
+This guide is for new editors who may not be familiar with wiki editing or editing in general. This guide only requires:
+
+	*  an account on lurker.pro 
+	*  an account with editor permissions (which you most likely have)
+
+Creating an Article</description>
+    </item>
+    <item rdf:about="https://lurker.pro/lurker/plugins?rev=1508559679&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-21T04:21:19+00:00</dc:date>
+        <title>lurker:plugins</title>
+        <link>https://lurker.pro/lurker/plugins?rev=1508559679&amp;do=diff</link>
+        <description>Lurker features a few site-specific plugins to increase functionality. Below lists and redirects to documentation of said plugins.
+
+Frequent
+
+	*  Simplenavi by Andreas Gohr
+	*  Gallery by Andreas Gohr
+	*  Wrap by Anika Henke
+	*  Imagebox by Lukas Rademacher, FFTiger &amp; myst6re
+	*</description>
+    </item>
+    <item rdf:about="https://lurker.pro/lurker/style_guide?rev=1508859821&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-24T15:43:41+00:00</dc:date>
+        <title>lurker:style_guide</title>
+        <link>https://lurker.pro/lurker/style_guide?rev=1508859821&amp;do=diff</link>
+        <description>Lurker Pro: Style Guide
+
+Below is a style guide for editing on Lurker. When writing or editing, please conform to these guidelines, as that will help us keep this resource clean, tidy, and consistent.
+
+Spelling
+
+Uppercase &amp; Lowercase
+
+	*  Digital Audio Workstations are uppercased;</description>
+    </item>
+</rdf:RDF>

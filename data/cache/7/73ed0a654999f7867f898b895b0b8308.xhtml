@@ -1,0 +1,158 @@
+
+<h1 class="sectionedit1" id="lurker_proadvanced_editing">Lurker Pro: Advanced Editing</h1>
+<div class="level1">
+
+<p>
+Our installation of DokuWiki allows many options for customizing the way pages are designed. While you are able to use the editing interface located at the top of every editing window, there are a few bits of code that—while not available from the editing bar—are very helpful in making a pages content more readable. This guide will give a more advanced look at how to do so. If you are new to editing wiki pages, it&#039;s preferred that you read the <a href="/lurker/basics" class="wikilink1" title="lurker:basics">basic editing guide</a> first, then redirect back to this guide.
+</p>
+
+</div>
+<!-- EDIT1 SECTION "Lurker Pro: Advanced Editing" [1-576] -->
+<h2 class="sectionedit2" id="columns">Columns</h2>
+<div class="level2">
+
+<p>
+Columns serve as a means to format content in a more efficient way. While they&#039;re not particularly needed in a page or article, they allow other editors to edit a specific page in a less destructive way. A basic way to create a column is to use the following code:
+</p>
+<pre class="code">&lt;WRAP half column&gt;
+Column 1 Left
+&lt;/WRAP&gt;
+
+&lt;WRAP half column&gt;
+Column 2 Right
+&lt;/WRAP&gt;
+
+&lt;/WRAP&gt;</pre>
+
+<p>
+The above code creates two even-width columns. The content in between the <code>&lt;WRAP half column&gt;</code> tag, and the <code>&lt;/WRAP&gt;</code> will be formatted automatically based on the other block of similar code. To put more simply, <strong>Column 1 Left</strong> will reposition based on <strong>Column 2 Right</strong>. This allows formatting without the worry of how much text is one area compared to another. The <code>&lt;WRAP&gt;</code> tag has a few other usable parameters that change its function. This guide will not go over complete functionality of WRAP. For more information, take a look at <a href="https://www.dokuwiki.org/plugin:wrap" class="urlextern" target="_tab" title="https://www.dokuwiki.org/plugin:wrap" rel="nofollow noopener">WRAP&#039;s documentation</a>.
+</p>
+
+</div>
+<!-- EDIT2 SECTION "Columns" [577-1595] -->
+<h3 class="sectionedit3" id="width">Width</h3>
+<div class="level3">
+
+<p>
+Columns in WRAP are very flexible to how they can be sized. While WRAP allows the use of parameters such as <code>half</code>, <code>third</code>, or <code>quarter</code>, it&#039;s better to use more absolute measurements. Absolute measurements ensure content will be displayed somewhat consistently on different devices. The following parameters may be used to change a column&#039;s width.
+</p>
+<ul>
+<li class="level1"><div class="li"> <code>%</code> – Allows the width to change based on the size of the window. (ex. 50%)</div>
+</li>
+<li class="level1"><div class="li"> <code>em</code> – Gives a flexible value based on the current font size<sup><a href="#fn__1" id="fnt__1" class="fn_top">1)</a></sup>. (ex. 0.75em)</div>
+</li>
+<li class="level1"><div class="li"> <code>px</code> – Gives an absolute value based on Pixels. (ex. 150px)</div>
+</li>
+<li class="level1"><div class="li"> <code>ex</code> – Gives an absolute value based on the x-width of the current font size. (ex. 1ex)</div>
+</li>
+<li class="level1"><div class="li"> <code>pt</code> – Gives an absolute value based on 1/72 of 1 inch. (ex. 25pt)</div>
+</li>
+<li class="level1"><div class="li"> <code>pc</code> – Gives an absolute value based on 12 points. (ex. 2.5pc)</div>
+</li>
+<li class="level1"><div class="li"> <code>cm</code> – Gives an absolute value based on centimeters. (ex. 10cm)</div>
+</li>
+<li class="level1"><div class="li"> <code>mm</code> – Gives an absolute value based on millimeters. (ex. 2.5mm)</div>
+</li>
+<li class="level1"><div class="li"> <code>in</code> – Gives an absolute value based on inches. (ex. 0.2in)</div>
+</li>
+</ul>
+
+<p>
+The preferred method of sizing is <code>%</code> (percentage) due to it&#039;s flexibility and ease of use. When in doubt, stick to using percent-based sizing.
+</p>
+
+</div>
+<!-- EDIT3 SECTION "Width" [1596-3108] -->
+<h2 class="sectionedit4" id="images">Images</h2>
+<div class="level2">
+
+<p>
+Images may be uploaded to Lurker using a few different methods. The preferred way is to use the image button in the editing window, as it generates the proper code for you. You may also drag and drop an image into the editing window, which will upload to the namespace you are currently editing it. It will not generate any code, but may be easier. In any case, if you know the location an already uploaded image, you may manually display it by using the following bit of code.
+</p>
+
+<p>
+<code>{{WIKILOCATION:FILENAME.PNG/JPG/ETC|}}</code>
+</p>
+
+<p>
+This will display the current image in it&#039;s uploaded size. But since our DokuWiki installation allows image resizing, you may add <code>?NUMBER</code> to the end of the file extension, which will alter its size based on the number given.
+</p>
+
+<p>
+However, while this is an easy way to display an image, it&#039;s preferred use to place single square brackets <code>[ ]</code> outside of the doubled curly braces <code>{{ }}</code>. Doing this allows a caption to be passed to the displayed image, while also drawing a box around the image. The separation of image and page gives everything a better look, while allowing context to be added to the image. For example, the following code gives this result:
+</p>
+<!-- EDIT5 PLUGIN_WRAP_START [0-] --><div class="group plugin_wrap"><!-- EDIT7 PLUGIN_WRAP_START [0-] --><div class="wrap_centeralign plugin_wrap">
+<p>
+<code>[{{ :ableton:live9suite-e-xlarge.jpg?direct&amp;200 |Ableton Live 9 Suite}}]</code> <sup><a href="#fn__2" id="fnt__2" class="fn_top">2)</a></sup>
+</p>
+<div class="thumb2 tcenter"><div class="thumbinner"><a href="/_media/ableton/live9suite-e-xlarge.jpg" class="media" target="_tab" title="ableton:live9suite-e-xlarge.jpg" rel="noopener"><img src="/_media/ableton/live9suite-e-xlarge.jpg?w=200&amp;tok=e158da" class="mediabox2" alt="" width="200" /></a><div class="thumbcaption" style="max-width: 194px"><div class="magnify"><a class="internal" title="Enlarge" href="/_media/ableton/live9suite-e-xlarge.jpg"><img width="15" height="11" alt="" src="/lib/plugins/imagebox/magnify-clip.png"/></a></div><em>Ableton Live 9 Suite</em></div></div></div></div><!-- EDIT8 PLUGIN_WRAP_END [0-] --></div><!-- EDIT6 PLUGIN_WRAP_END [0-] -->
+</div>
+<!-- EDIT4 SECTION "Images" [3109-4698] -->
+<h2 class="sectionedit9" id="font_colors_sizes">Font Colors &amp; Sizes</h2>
+<div class="level2">
+
+<p>
+Using the plugin <a href="https://www.dokuwiki.org/plugin:fontsize2" class="urlextern" target="_tab" title="https://www.dokuwiki.org/plugin:fontsize2" rel="nofollow noopener">Fontsize2</a>, the size of the text may be changed based on <code>em</code>, <code>ex</code>, <code>%</code>, <code>px</code>, and css keywords<sup><a href="#fn__3" id="fnt__3" class="fn_top">3)</a></sup>. For example, the following code gives the following result:
+</p>
+<!-- EDIT10 PLUGIN_WRAP_START [0-] --><div class="group plugin_wrap"><!-- EDIT12 PLUGIN_WRAP_START [0-] --><div class="wrap_centeralign plugin_wrap">
+<p>
+<code>&lt;fs 1.5em&gt;This text is 1.5em!&lt;/fs&gt;</code>
+</p>
+
+<p>
+<span style="font-size: 1.5em">This text is 1.5em!</span>
+</p>
+</div><!-- EDIT13 PLUGIN_WRAP_END [0-] --></div><!-- EDIT11 PLUGIN_WRAP_END [0-] -->
+<p>
+To change the text&#039;s color, the <a href="https://www.dokuwiki.org/plugin:color" class="urlextern" target="_tab" title="https://www.dokuwiki.org/plugin:color" rel="nofollow noopener">Color</a> plugin may be used. The plugin supports <a href="https://en.wikipedia.org/wiki/X11_color_names#Color_name_chart" class="urlextern" target="_tab" title="https://en.wikipedia.org/wiki/X11_color_names#Color_name_chart" rel="nofollow noopener">X11 Color Names</a> and <a href="https://en.wikipedia.org/wiki/Web_colors" class="urlextern" target="_tab" title="https://en.wikipedia.org/wiki/Web_colors" rel="nofollow noopener">Hex Color Codes</a>. The following code gives the following result:
+</p>
+<!-- EDIT14 PLUGIN_WRAP_START [0-] --><div class="group plugin_wrap"><!-- EDIT16 PLUGIN_WRAP_START [0-] --><div class="wrap_centeralign plugin_wrap">
+<p>
+<code>&lt;color red&gt;Red text&lt;/color&gt;</code><br/>
+
+<span style='color:red; '>Red text</span>
+</p>
+<div class="table sectionedit18"><table class="inline">
+	<tr class="row0">
+		
+	</tr>
+</table></div>
+<!-- EDIT18 TABLE [5568-5569] -->
+<p>
+<code>&lt;color #FF0000&gt;Red text&lt;/color&gt;</code><br/>
+
+<span style='color:#Fffa11; '>Yellow text</span>
+</p>
+</div><!-- EDIT17 PLUGIN_WRAP_END [0-] --></div><!-- EDIT15 PLUGIN_WRAP_END [0-] -->
+<p>
+If a background color surrounding text is necessary, you may use a forward slash ( / ) and pass two colors. The first color is the text color, the second being the box color. The following code gives the following result:
+</p>
+<!-- EDIT19 PLUGIN_WRAP_START [0-] --><div class="group plugin_wrap"><!-- EDIT21 PLUGIN_WRAP_START [0-] --><div class="wrap_centeralign plugin_wrap">
+<p>
+<code>&lt;color blue/lightgreen&gt;Blue text, light green background&lt;/color&gt;</code><br/>
+
+<span style='color:blue; background-color:lightgreen;'>Blue text, light green background</span>
+</p>
+<div class="table sectionedit23"><table class="inline">
+	<tr class="row0">
+		
+	</tr>
+</table></div>
+<!-- EDIT23 TABLE [6059-6060] -->
+<p>
+<code>&lt;color #FF0000/#Fffa11&gt;Red text, yellow background&lt;/color&gt;</code><br/>
+
+<span style='color:#FF0000; background-color:#Fffa11;'>Red text, yellow background</span>
+</p>
+</div><!-- EDIT22 PLUGIN_WRAP_END [0-] --></div><!-- EDIT20 PLUGIN_WRAP_END [0-] -->
+</div>
+<!-- EDIT9 SECTION "Font Colors & Sizes" [4699-] --><div class="footnotes">
+<div class="fn"><sup><a href="#fnt__1" id="fn__1" class="fn_bot">1)</a></sup> 
+<div class="content">“An em is a <abbr title="Cascading Style Sheets">CSS</abbr> unit that measures the size of a font, from the top of a font’s cap height to
+the bottom of its lowest descender. Originally, the em was equal to the width of the capital
+letter M, which is where its name originated.” – <em>Source: The Principles of Beautiful Web Design by Jason Beaird</em></div></div>
+<div class="fn"><sup><a href="#fnt__2" id="fn__2" class="fn_bot">2)</a></sup> 
+<div class="content">Using the pipe operator ( | ) after the image and its parameters allows captioning. The caption will not be passed through unless the pipe operator is used.</div></div>
+<div class="fn"><sup><a href="#fnt__3" id="fn__3" class="fn_bot">3)</a></sup> 
+<div class="content">xx-small , x-small, small, medium, large, x-large, xx-large.</div></div>
+</div>

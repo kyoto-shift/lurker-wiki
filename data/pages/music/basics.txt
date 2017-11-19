@@ -1,0 +1,7 @@
+[[music:basics:chat|{{fa>comments?24&right|Discuss}}]]
+====== Basics ====== 
+Articles related to the basics of music production.
+
+===== Articles: =====
+
+{{simplenavi>music:basics?ns: -chat}}

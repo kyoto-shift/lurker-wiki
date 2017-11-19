@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="https://lurker.pro/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://lurker.pro/feed.php">
+        <title>Lurker reaper:plugins</title>
+        <description></description>
+        <link>https://lurker.pro/</link>
+        <image rdf:resource="https://lurker.pro/_media/wiki/favicon.ico" />
+       <dc:date>2017-11-04T13:41:17+00:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://lurker.pro/reaper/plugins/rea_comp?rev=1508959287&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/reaper/plugins/rea_eq?rev=1508963599&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="https://lurker.pro/_media/wiki/favicon.ico">
+        <title>Lurker</title>
+        <link>https://lurker.pro/</link>
+        <url>https://lurker.pro/_media/wiki/favicon.ico</url>
+    </image>
+    <item rdf:about="https://lurker.pro/reaper/plugins/rea_comp?rev=1508959287&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-25T19:21:27+00:00</dc:date>
+        <title>reaper:plugins:rea_comp</title>
+        <link>https://lurker.pro/reaper/plugins/rea_comp?rev=1508959287&amp;do=diff</link>
+        <description>ReaComp
+
+ReaComp is a compressor bundled with Reaper. Its most common use is for smoothing out variations in volume between the louder and quieter parts of a track or folder. It can also be used to raise (or, less commonly, lower) the overall volume of the compressed output of a track or folder.</description>
+    </item>
+    <item rdf:about="https://lurker.pro/reaper/plugins/rea_eq?rev=1508963599&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-25T20:33:19+00:00</dc:date>
+        <title>reaper:plugins:rea_eq</title>
+        <link>https://lurker.pro/reaper/plugins/rea_eq?rev=1508963599&amp;do=diff</link>
+        <description></description>
+    </item>
+</rdf:RDF>

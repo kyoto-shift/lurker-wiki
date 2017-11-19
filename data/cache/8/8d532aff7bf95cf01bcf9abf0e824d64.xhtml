@@ -1,0 +1,39 @@
+
+<h1 class="sectionedit1" id="backup_tool">Backup Tool</h1>
+<div class="level1">
+
+<p>
+This tool allows you to backup your page and meta data, as well as configuration for the wiki, templates, and plugins, as well as anything else you&#039;d like to backup just in case a <a href="https://en.wikipedia.org/wiki/meteorite" class="interwiki iw_wp" target="_tab" title="https://en.wikipedia.org/wiki/meteorite" rel="noopener">meteorite</a> accidentally lands on top of your hosting provider or something similar.
+</p>
+
+<p>
+The tool will create a <a href="https://en.wikipedia.org/wiki/tar_(file format)" class="interwiki iw_wp" target="_tab" title="https://en.wikipedia.org/wiki/tar_(file format)" rel="noopener">tar</a> archive, compressed with either <a href="https://en.wikipedia.org/wiki/bzip2" class="interwiki iw_wp" target="_tab" title="https://en.wikipedia.org/wiki/bzip2" rel="noopener">bzip2</a> or <a href="https://en.wikipedia.org/wiki/gzip" class="interwiki iw_wp" target="_tab" title="https://en.wikipedia.org/wiki/gzip" rel="noopener">gzip</a> (or uncompressed, depending on availability) which you can then download.
+</p>
+
+<p>
+<strong>Notes:</strong>
+</p>
+<ul>
+<li class="level1"><div class="li"> If the backup times out on your server, try backing up fewer items at once.</div>
+</li>
+<li class="level1 node"><div class="li"> The final backup file is named <em>dw-backup-YearMonthDay-HourMinuteSecond.tar.bz2</em>, and time is in <strong>24 hour format</strong>.</div>
+<ul>
+<li class="level2"><div class="li"> The file is formatted this way so that backups will <strong>always</strong> be sorted correctly. I suggest you not change this, but it&#039;s up to you.</div>
+</li>
+</ul>
+</li>
+<li class="level1"><div class="li"> <strong>If you are backing up anything confidential</strong> (e.g., private pages, or configuration files that include account passwords), you should set the backup namespace to be viewable only by administrators, or delete your backup files immediately after creating them.</div>
+</li>
+<li class="level1 node"><div class="li"> You can filter out specific directories from being backed up (e.g., old backups, or rendered equation cache from <a href="https://www.dokuwiki.org/plugin%3Alatex" class="interwiki iw_doku" target="_tab" title="https://www.dokuwiki.org/plugin%3Alatex" rel="noopener">LaTeX plugin</a>). See this plugin&#039;s configuration for details. </div>
+<ul>
+<li class="level2"><div class="li"> The backup method “GNU Tar (fast;unfiltered)” generally ignores this filtering.</div>
+</li>
+</ul>
+</li>
+</ul>
+
+<p>
+Please select the following items you wish to backup…
+</p>
+
+</div>

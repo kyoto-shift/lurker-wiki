@@ -1,0 +1,47 @@
+====== ReaComp ======
+
+<WRAP group>
+<WRAP right column 35%>
+[{{ :reaper:plugins:reacomp.png?direct|ReaComp in Reaper 5.52}}]
+</WRAP>
+
+<WRAP columns>
+ReaComp is a compressor bundled with Reaper. Its most common use is for smoothing out variations in volume between the louder and quieter parts of a track or folder. It can also be used to raise (or, less commonly, lower) the overall volume of the compressed output of a track or folder.
+
+===== Threshold =====
+
+Threshold determines the volume in which compression should be applied. The threshold parameter may use values from -inf to +12dB.
+
+===== Pre-Comp =====
+
+Adjusting the pre-comp slider allows compression to occur before the threshold is reached; adjusted in milliseconds. 
+
+===== Attack & Classic Attack =====
+Attack determines how quickly the compressor responds when the threshold level is reached
+or exceeded. Enabling classic attack gradually lowers the compression ratio as the volume increases above the specified threshold, eventually lowering to a ratio of 1 : 1. This allows the loudest signals to pass uncompressed.
+
+===== Release & Auto Release =====
+
+The release time determines how quickly the compressor responds when the volume drops below the threshold level. Enabling auto release will change the release time based on the signal passing through the compressor. This can prevent dramatic changes in compression.
+
+===== Ratio =====
+
+The amount of compression applied is controlled by the ratio. Where a 4 : 1 ratio would mean that if a signal above the threshold increases by 4dB, the compressor output will only increase by 1dB. If a signal above the threshold increased to 8db, the compressor output will increase by 2dB.
+
+===== Low-pass Filter =====
+
+The value of the low-pass filter controls the highest frequency in which the compressor will apply compression to. Frequencies above this value are ignored by ReaComp. 
+
+===== High-pass Filter =====
+The value of the high-pass filter controls the lowest frequency in which the compressor will apply compression to. Frequencies below this value are ignored by ReaComp.
+
+===== Dry/Wet =====
+
+Manipulating the dry fader mixes the uncompressed signal back into the compressed signal, while the wet fader determines the level of the compressed signal.
+
+</WRAP>
+</WRAP>
+
+
+
+

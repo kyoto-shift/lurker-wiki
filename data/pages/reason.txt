@@ -1,0 +1,37 @@
+====== Reason: Overview ======
+
+<WRAP group>
+<WRAP column 100%>
+Reason is a digital audio workstation for creating and editing music and audio developed by Swedish software developers Propellerhead Software. It emulates a rack of hardware synthesizers, samplers, signal processors, sequencers, and mixers, all of which can be freely interconnected in an arbitrary manner. Reason can be used either as a complete virtual music studio or as a set of virtual instruments to be used with other sequencing software in a fashion that mimics live performance.
+
+</WRAP>
+</WRAP>
+
+<WRAP center todo 100%>
+Reason is low on content! If you'd like to help, get started by reading our [[:lurker|editing guides]]!
+</WRAP>
+
+<WRAP group>
+<WRAP half column>
+[[reason:plugins|Plugins:]] 
+{{simplenavi>reason:plugins}}
+</WRAP>
+
+<WRAP half column>
+[[reason:guides|Guides:]] 
+{{simplenavi>reason:guides}}
+</WRAP>
+</WRAP>
+----
+
+<WRAP group>
+<WRAP left>
+[[reason:misc|Miscellaneous:]]
+</WRAP>
+
+{{page>reason:misc&noheader&noeditbutton}}
+
+</WRAP>
+
+
+

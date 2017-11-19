@@ -1,0 +1,28 @@
+====== Lurker Pro: Basics of Editing ======
+
+<WRAP group>
+<WRAP column 100%>
+This guide is for new editors who may not be familiar with wiki editing or editing in general. This guide only requires:
+  * an account on [[https://lurker.pro|lurker.pro]] 
+  * an account with editor permissions (which you most likely have)
+
+===== Creating an Article =====
+To create an article, try searching for the article you'd want to make first. If it's not there, navigate to the namespace[(test>For example, in [[https://lurker.pro/ableton/guides|lurker.pro/ableton/guides]], ableton is the namespace and guides is a page)] where the article should be placed. Add a forward slash after the namespace, then the name of the page you wish to create[(You may also type <wrap lo>?do=edit</wrap> after the page name to begin editing immediately)] (ex. ableton/plugins/beatrepeat). If the page has not been created, you will be shown a blank page. You are then able to create said page and edit it freely! //Remember, any changes you make to a page are visible to any user on Lurker.// 
+
+===== Editing a Page or Article =====
+There are no distinctions between pages and articles besides their content. However, for the sake of this guide, "pages" contain content that directs the user, and "articles" contain content that explains a topic to the user. For example, [[https://lurker.pro/lurker|lurker.pro/lurker]] is a page or namespace, and [[https://lurker.pro/lurker/basics|lurker.pro/lurker/basics]] is an article.
+</WRAP>
+
+===== Editing Interface =====
+<WRAP group>
+<WRAP column right 50%>
+[{{ :lurker:editinterface.png?direct|Editing interface as of 10-20-2017}}]
+</WRAP>
+
+<WRAP columns >
+The edit page consist of an editing text box containing the current code of the page or the section you want to edit. You can now change that code to add, remove, fix, or improve something on the page. Once you made the change, you can use the "Preview" button to see how the result will look like, before committing the changes into the wiki. Once you're satisfied with the changes, click “Save” to commit your work into the wiki.[(summmary>Remember to document your changes by using the summary box at the bottom of the editing window. This will let everyone know what you did to the page, and may justify any editing you did!)]
+</WRAP>
+</WRAP>
+
+
+

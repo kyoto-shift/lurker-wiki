@@ -1,0 +1,11 @@
+====== Logic Pro: Guides =======
+
+<WRAP group>
+<WRAP column 100%>
+{{simplenavi>logic:guides}}
+
+</WRAP>
+</WRAP>
+
+
+

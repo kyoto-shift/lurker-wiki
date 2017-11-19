@@ -1,0 +1,11 @@
+====== Logic Pro: Plugins ======
+
+<WRAP group>
+<WRAP column 100%>
+{{simplenavi>logic:plugins}}
+
+</WRAP>
+</WRAP>
+
+
+

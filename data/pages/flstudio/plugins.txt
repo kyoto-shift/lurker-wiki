@@ -1,0 +1,11 @@
+====== FL Studio: Plugins ======
+
+<WRAP group>
+<WRAP column 100%>
+{{simplenavi>flstudio:plugins}}
+
+</WRAP>
+</WRAP>
+
+
+

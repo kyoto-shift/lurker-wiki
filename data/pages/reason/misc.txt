@@ -1,0 +1,31 @@
+====== Reason: Miscellaneous ======
+
+<WRAP group>
+
+/* ----- VIDEO ----- */
+
+<WRAP half column>
+  * **Video** --
+    * 
+
+
+</WRAP>
+
+/* ----- WRITTEN ----- */
+
+<WRAP half column>
+  * **Written** --
+    * [[https://www.propellerheads.se/support/downloads/reason-documentation-and-help-files/|Reason Manual]]
+
+</WRAP>
+</WRAP>
+
+
+
+
+
+
+
+
+
+

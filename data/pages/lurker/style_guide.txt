@@ -1,0 +1,108 @@
+====== Lurker Pro: Style Guide ======
+
+<WRAP group>
+<WRAP column 100%>
+Below is a style guide for editing on Lurker. When writing or editing, please conform to these guidelines, as that will help us keep this resource clean, tidy, and consistent.
+
+====== Spelling ======
+
+===== Uppercase & Lowercase =====
+  * Digital Audio Workstations are uppercased;
+    * <color #22b14c>Ableton Live</color>, not <color #ed1c24>ableton live</color>.
+    * <color #22b14c>Pro Tools</color>, not <color #ed1c24>pro tools</color>.
+  * Plugins are uppercased;
+    * <color #22b14c>Compressor</color>, <color #ed1c24>not compressor</color>.
+    * <color #22b14c>Kontakt</color>, not <color #ed1c24>ni kontakt</color>.
+  * Compound expressions, such as <color #22b14c>FL Keys, NI Kontakt, Xfer Serum</color> are uppercased. However, when used in a more casual context and as a single word, the beginning compound is dropped: <color #22b14c>Keys, Kontakt, Serum</color>.
+
+===== Abbreviations & Acronyms =====
+  * Avoid using abbreviations such as //TIL//, //AKA//, //ITT//, etc in articles -- //ex.//, //i.e.//, and other functional abbreviations are okay.
+  * If an abbreviation is used, it must be fully capitalized unless otherwise necessary.
+    * <color #22b14c>BME, BMEd</color>
+    * <color #ed1c24>bme, bmed</color>
+  * Avoid using full stops (periods) in between the letters of an acronym unless otherwise necessary.
+
+===== Bolding =====
+  * If possible, **bold** the first instance of the page's title within the text. This may be unnecessary for longer titles.
+
+===== Punctuation =====
+  * Basic punctuation rules apply.
+  * Try to avoid use of excessive exclamation marks (!!) or question marks (??);
+  * When using a hyphen to introduce a list of one item, or to change a thought mid-sentence, use a double-hyphen without any spaces;
+    * <color #22b14c>Here is a thought--I want to say something on a small tangent.</color>
+  * When beginning a new sentence, use only a single space after a full stop (period);
+    * <color #22b14c>Here is another thought. I just wanted to say it.</color>
+  * When creating a list, use the [[https://en.wikipedia.org/wiki/Serial_comma|Oxford Comma]].
+    * <color #22b14c>Item one, two, and three.</color>
+    * <color #ed1c24>Item one, two and three.</color>
+
+===== Numbers =====
+  * For numbers taken directly from DAWs (versions, plugins, etc), use numerals;
+    * <color #22b14c>FL Studio 12</color>
+    * <color #22b14c>Ableton Live 9</color>
+  * For all numbering up to twenty, use their corresponding English words;
+    * <color #22b14c>The compressor has **__four__** main parameters</color>.
+  * For production related numbering, use numerals;
+    * <color #22b14c>3dB of gain reduction.</color>
+
+===== Currency =====
+  * Currencies should use their country-specific symbol and punctuation.
+    * <color #22b14c>€13,00</color>
+    * <color #ed1c24>$15.27</color>
+  * Avoid using currency conversion unless dealing in values of one-hundred or more. If more than two prices are available, only provide USD and EUR (if applicable), with the lower of the two coming first.
+    * <color #22b14c>€379--$499</color>
+    * <color #ed1c24>$499 (€379)</color>
+
+====== Page Location ======
+  * When deciding on the location of new categories or pages, decide whether the category or page meets the following critera:
+    * If the page or category is a **guide**:
+      * place under a pre-existing guide namespace (for example, /ableton/guides).
+    * If the page or category is a **general resource**((A resource that is dependent on a specific DAW or work environment)):
+      * place under the [[:resources|/resources]] namespace(( YouTube videos and other external content should go under this namespace.)).
+    * If the page or category is a **specified resource**((A resource that is not dependent on a specific DAW or work environment)): 
+      * place under the specified work environment's //Miscellaneous// section.
+    * If the page or category **does not meet** any of the above criteria:
+      * look at similarly designed pages or categories;
+      * post in [[:requests|/requests]] for advice.
+
+====== Design ======
+
+===== Page Design =====
+  * Names of pages (links) should only separated by a single underscore (_) unless otherwise needed:
+    * <color #22b14c>multiband_compressor</color>
+    * <color #ed1c24>multibandcompressor</color>
+  * If the page's name contains meeting letters (where a word's final letter starts the next word), add a single underscore to separate the two words.
+    * <color #22b14c>studio_one</color>
+    * <color #ed1c24>studioone</color>
+  * The largest heading size should be H1, and the smallest should be H4 unless otherwise needed. If you are unsure about headings and heading sizes, take a look [[wiki:syntax#sectioning|here]].
+
+
+===== Category Design =====
+  * All categories must follow the same basic outline:
+    * Heading at the top of the page containing the category's name:((Headings must be size H1. Subsequent headings may also be H1 if needed.))
+      * ''====== Resources ======''
+    * Small description of the category and its contents:
+      * ''"Below lists various resources that should not be listed on any other page."''
+    * If the category is going to host subpages, include ''%%{{simplenavi>CATEGORYNAME}}%%'' below any heading. This will automatically display any pages inside the parent namespace using an unordered list.((More information on Simplenavi can be found here -- [[https://www.dokuwiki.org/plugin:simplenavi|Simplenavi Documentation]]))
+
+===== Article Design =====
+
+  * Do not include any punctuations in headings unless the heading features a sub-category to direct the user. 
+    * Ableton: Overview
+  * Headings that are questions should be re-formulated in an expressive way. <color #ed1c24>"Why mix this way?"</color> could become <color #22b14c>"Theory of this method"</color> or similar.
+  * Words such as in, at, on, to, etc should **not** be uppercased in headings.
+  * If we find any references to unwritten articles before release, about which we do not know how they would be filled out, they will be purged.
+
+====== Point of View ======
+
+  * In guides, speak with the reader as a 2nd person:
+    * <color #22b14c>For clean mixes, **__you__** should cut sub-frequencies that can muddy up the mix.</color>
+  * In articles or pages, speak to the reader as a 3rd person:
+    * <color #22b14c>Enabling Auto Release will adjust the release time automatically based on the incoming signal</color>.
+    * <color #ed1c24>If **__you__** enable Auto Release, **__it__** will adjust the release time automatically based on the incoming signal</color>.
+  * If an ambiguous pronoun is needed, use "they", "theirs", "it", or "it's" instead of "he/she." This keeps the article quick and to the point.
+  * However, good practice is to generally write so that pronouns are not need altogether.
+</WRAP>
+</WRAP>
+
+

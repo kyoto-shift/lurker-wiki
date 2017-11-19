@@ -1,0 +1,35 @@
+====== FL Studio: Overview ======
+
+<WRAP group>
+<WRAP column 100%>
+FL Studio (formerly known as FruityLoops) is a digital audio workstation (DAW) developed by the Belgian company Image-Line. FL Studio features a graphical user interface based on a pattern-based music sequencer. The program is available in three different editions for Microsoft Windows, including Fruity Edition, Producer Edition, and the Signature Bundle. Image-Line offers lifetime free updates to the program, which means customers receive all future updates of the software for free. Image-Line also develops FL Studio Mobile for iPod Touch, iPhone, iPad and Android devices. There is also a beta available for Mac operating systems.
+
+</WRAP>
+</WRAP>
+
+<WRAP center todo 100%>
+FL Studio is low on content! If you'd like to help, get started by reading our [[:lurker|editing guides]]!
+</WRAP>
+
+<WRAP group>
+<WRAP half column>
+[[flstudio:plugins|Plugins:]] 
+{{simplenavi>flstudio:plugins}}
+</WRAP>
+
+<WRAP half column>
+[[flstudio:guides|Guides:]] 
+{{simplenavi>flstudio:guides}}
+</WRAP>
+</WRAP>
+----
+
+<WRAP group>
+<WRAP left>
+[[flstudio:misc|Miscellaneous:]]
+</WRAP>
+
+{{page>flstudio:misc&noheader&noeditbutton}}
+
+</WRAP>
+

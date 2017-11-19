@@ -1,0 +1,56 @@
+#plugin_fetchmedia_page {
+    form {
+        fieldset {
+            width: 75%;
+
+            label {
+                display: block;
+                text-align: left;
+
+                > span {
+                    width: 40%;
+                    display: inline-block;
+                }
+            }
+        }
+    }
+
+    #fetchmedia_results {
+        margin-top: 2rem;
+
+        button#downloadNow {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        > table {
+            margin-left: auto;
+            margin-right: auto;
+
+            td {
+
+                &.wikipage, &.mediaLink {
+                    word-break: break-all;
+                }
+            }
+
+            span.result {
+                &.success {
+                    color: green;
+                }
+
+                &.error {
+                    color: darkred;
+                    font-weight: bold;
+                }
+            }
+        }
+
+        div#noLinksFound {
+            display: table;
+            margin-left: auto;
+            margin-right: auto;
+        }
+    }
+}

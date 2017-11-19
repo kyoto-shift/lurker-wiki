@@ -1,0 +1,7 @@
+[[music:theory:chat|{{fa>comments?24&right|Discuss}}]]
+====== Music Theory ====== 
+Articles related to music theory.
+
+===== Articles: =====
+
+{{simplenavi>music:theory?ns: -chat}}

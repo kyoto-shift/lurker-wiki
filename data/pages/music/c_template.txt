@@ -1,0 +1,7 @@
+[[music:TOPIC:chat|{{fa>comments?24&right|Discuss}}]]
+====== TOPIC ====== 
+Articles related to TOPIC
+
+===== Articles: =====
+
+{{simplenavi>music:TOPIC?ns: -chat}}

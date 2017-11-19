@@ -1,0 +1,7 @@
+base   commentsyntax
+author Satoshi Sahara
+email  <sahara.satoshi@gmail.com>
+date   2016-07-20
+name   Comment Syntax support
+desc   Allow to use source comment syntax to leave edit instructions of the page. Comments are visible only in the source view, not rendered as any page elements.
+url    https://www.dokuwiki.org/plugin:commentsyntax

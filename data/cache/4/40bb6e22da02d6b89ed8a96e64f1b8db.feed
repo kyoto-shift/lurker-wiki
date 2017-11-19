@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="https://lurker.pro/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://lurker.pro/feed.php">
+        <title>Lurker music</title>
+        <description></description>
+        <link>https://lurker.pro/</link>
+        <image rdf:resource="https://lurker.pro/_media/wiki/favicon.ico" />
+       <dc:date>2017-11-10T16:11:01+00:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://lurker.pro/music/basics?rev=1509126041&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/music/mixing?rev=1508739021&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/music/sound_design?rev=1508739029&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/music/theory?rev=1508739002&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="https://lurker.pro/_media/wiki/favicon.ico">
+        <title>Lurker</title>
+        <link>https://lurker.pro/</link>
+        <url>https://lurker.pro/_media/wiki/favicon.ico</url>
+    </image>
+    <item rdf:about="https://lurker.pro/music/basics?rev=1509126041&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-27T17:40:41+00:00</dc:date>
+        <title>music:basics</title>
+        <link>https://lurker.pro/music/basics?rev=1509126041&amp;do=diff</link>
+        <description>Basics
+
+Articles related to the basics of music production.
+
+Articles:</description>
+    </item>
+    <item rdf:about="https://lurker.pro/music/mixing?rev=1508739021&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-23T06:10:21+00:00</dc:date>
+        <title>music:mixing</title>
+        <link>https://lurker.pro/music/mixing?rev=1508739021&amp;do=diff</link>
+        <description>Mixing &amp; Mastering
+
+Articles related to mixing &amp; mastering music.
+
+Articles:</description>
+    </item>
+    <item rdf:about="https://lurker.pro/music/sound_design?rev=1508739029&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-23T06:10:29+00:00</dc:date>
+        <title>music:sound_design</title>
+        <link>https://lurker.pro/music/sound_design?rev=1508739029&amp;do=diff</link>
+        <description>Sound Design
+
+Articles related to music-based sound design.
+
+Articles:</description>
+    </item>
+    <item rdf:about="https://lurker.pro/music/theory?rev=1508739002&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-23T06:10:02+00:00</dc:date>
+        <title>music:theory</title>
+        <link>https://lurker.pro/music/theory?rev=1508739002&amp;do=diff</link>
+        <description>Music Theory
+
+Articles related to music theory.
+
+Articles:</description>
+    </item>
+</rdf:RDF>

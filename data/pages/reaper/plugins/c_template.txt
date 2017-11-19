@@ -1,0 +1,29 @@
+====== Plugin Title ======
+
+<WRAP group>
+<WRAP right column 35%>
+Replace with image of plugin no sizing tags.
+</WRAP>
+
+<WRAP columns>
+Replace with brief description of plugin.
+
+===== Control 1 =====
+Replace with information about a feature of the plugin.
+
+<WRAP right column 35%>
+Replace with image of plugin no sizing tags. (optional)
+</WRAP>
+
+===== Control 2 =====
+
+Replace with information about another main feature of the plugin.
+
+
+(continue to add more information if needed)
+</WRAP>
+</WRAP>
+
+
+
+

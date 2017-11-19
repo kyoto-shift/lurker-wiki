@@ -1,0 +1,8 @@
+Hi! You've signed up for @HOSTNAME@. Here are the details of your new account:
+
+User name   : @NEWUSER@
+E-mail      : @NEWEMAIL@
+
+Browser     : @BROWSER@
+
+If you didn't request an account, you can ignore this email.

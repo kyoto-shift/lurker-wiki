@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="https://lurker.pro/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://lurker.pro/feed.php">
+        <title>Lurker logic</title>
+        <description></description>
+        <link>https://lurker.pro/</link>
+        <image rdf:resource="https://lurker.pro/_media/wiki/favicon.ico" />
+       <dc:date>2017-11-13T17:16:39+00:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://lurker.pro/logic/guides?rev=1508733935&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/logic/misc?rev=1508825817&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/logic/plugins?rev=1508733890&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="https://lurker.pro/_media/wiki/favicon.ico">
+        <title>Lurker</title>
+        <link>https://lurker.pro/</link>
+        <url>https://lurker.pro/_media/wiki/favicon.ico</url>
+    </image>
+    <item rdf:about="https://lurker.pro/logic/guides?rev=1508733935&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-23T04:45:35+00:00</dc:date>
+        <title>logic:guides</title>
+        <link>https://lurker.pro/logic/guides?rev=1508733935&amp;do=diff</link>
+        <description>Logic Pro: Guides</description>
+    </item>
+    <item rdf:about="https://lurker.pro/logic/misc?rev=1508825817&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-24T06:16:57+00:00</dc:date>
+        <title>logic:misc</title>
+        <link>https://lurker.pro/logic/misc?rev=1508825817&amp;do=diff</link>
+        <description>Logic Pro: Miscellaneous
+
+
+
+	*  Video --
+		*  
+
+
+
+
+	*  Written --
+		*  Logic Pro X Manual</description>
+    </item>
+    <item rdf:about="https://lurker.pro/logic/plugins?rev=1508733890&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-23T04:44:50+00:00</dc:date>
+        <title>logic:plugins</title>
+        <link>https://lurker.pro/logic/plugins?rev=1508733890&amp;do=diff</link>
+        <description>Logic Pro: Plugins</description>
+    </item>
+</rdf:RDF>

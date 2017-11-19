@@ -1,0 +1,28 @@
+====== Redrum Drum Computer ======
+
+<WRAP group>
+<WRAP right column 35%>
+[{{ :reason:plugins:redrum.jpg?direct|Redrum in Reason.}}]
+</WRAP>
+
+<WRAP columns>
+At first glance, Redrum looks styled after pattern-based drum machines, like the legendary Roland 808/909 units. Indeed, it does have a row of 16 step buttons that are used for step programming patterns, just like the aforementioned classics. There are significant differences, however. Redrum features ten drum “channels” that can each be loaded with an audio file, allowing for completely open-ended sound possibilities. Don’t like the snare - just change it. Complete drum kits can be saved as Redrum Patches, allowing you to mix and match drum sounds and make up custom kits with ease.
+
+In addition, Redrum also has sampling capability. This means that you can sample your own sounds straight into each of the ten drum channels with just a click of a button!
+
+/*
+==== Control 1 ====
+Replace with information about a feature of the plugin.
+
+<WRAP right column 35%>
+Replace with image of plugin no sizing tags. (optional)
+</WRAP>
+
+==== Control 2 ====
+
+Replace with information about another main feature of the plugin.
+
+*/
+
+</WRAP>
+</WRAP>

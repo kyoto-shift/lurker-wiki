@@ -1,0 +1,37 @@
+====== Logic Pro: Overview ======
+
+<WRAP group>
+<WRAP column 100%>
+Logic Pro is a digital audio workstation and MIDI sequencer software application for the macOS platform. It was originally created in the early 1990s as Notator Logic, or Logic, by German software developer C-Lab, later Emagic. It became an Apple product, eventually known as Logic Pro, after Apple bought Emagic in 2002. It is the 2nd most popular digital audio workstation (DAW) according to a survey conducted in 2015.
+
+</WRAP>
+</WRAP>
+
+<WRAP center todo 100%>
+Logic is low on content! If you'd like to help, get started by reading our [[:lurker|editing guides]]!
+</WRAP>
+
+<WRAP group>
+<WRAP half column>
+[[logic:plugins|Plugins:]] 
+{{simplenavi>logic:plugins}}
+</WRAP>
+
+<WRAP half column>
+[[logic:guides|Guides:]] 
+{{simplenavi>logic:guides}}
+</WRAP>
+</WRAP>
+----
+
+<WRAP group>
+<WRAP left>
+[[logic:misc|Miscellaneous:]]
+</WRAP>
+
+{{page>logic:misc&noheader&noeditbutton}}
+
+</WRAP>
+
+
+

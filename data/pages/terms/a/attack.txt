@@ -1,0 +1,8 @@
+====== Attack ======
+
+
+
+[{{ :terms:a:attack_and_decay.jpg?direct&225|Graph displaying the attack and decay of a sound.}}]
+
+The "attack" of a sound (more commonly attack) is the time a sound takes to get from its zero point to its peak.  
+

@@ -1,0 +1,5 @@
+1508104575	67.11.152.187	C	logic:eq	lurker	created		550
+1508395454	67.11.152.187	C	logic:plugins:eq	lurker	↷ Page moved from logic:eq to logic:plugins:eq		550
+1508434748	67.11.152.187	C	logic:plugins:channel_eq	lurker	↷ Page name changed from logic:plugins:eq to logic:plugins:channel_eq		550
+1508434754	67.11.152.187	E	logic:plugins:channel_eq	lurker			-473
+1508470781	67.11.152.187	C	lurker:logic:plugins:channel_eq	lurker	↷ Page moved from logic:plugins:channel_eq to lurker:logic:plugins:channel_eq		77

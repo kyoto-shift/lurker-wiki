@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="https://lurker.pro/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://lurker.pro/feed.php">
+        <title>Lurker cubase</title>
+        <description></description>
+        <link>https://lurker.pro/</link>
+        <image rdf:resource="https://lurker.pro/_media/wiki/favicon.ico" />
+       <dc:date>2017-10-31T21:03:00+00:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://lurker.pro/cubase/guides?rev=1508733846&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/cubase/misc?rev=1508825701&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/cubase/plugins?rev=1508733842&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="https://lurker.pro/_media/wiki/favicon.ico">
+        <title>Lurker</title>
+        <link>https://lurker.pro/</link>
+        <url>https://lurker.pro/_media/wiki/favicon.ico</url>
+    </image>
+    <item rdf:about="https://lurker.pro/cubase/guides?rev=1508733846&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-23T04:44:06+00:00</dc:date>
+        <title>cubase:guides</title>
+        <link>https://lurker.pro/cubase/guides?rev=1508733846&amp;do=diff</link>
+        <description>Cubase: Guides</description>
+    </item>
+    <item rdf:about="https://lurker.pro/cubase/misc?rev=1508825701&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-24T06:15:01+00:00</dc:date>
+        <title>cubase:misc</title>
+        <link>https://lurker.pro/cubase/misc?rev=1508825701&amp;do=diff</link>
+        <description>Cubase: Miscellaneous
+
+
+
+	*  Video --
+		*  
+
+
+
+
+	*  Written --
+		*  Cubase Pro 9 Manual</description>
+    </item>
+    <item rdf:about="https://lurker.pro/cubase/plugins?rev=1508733842&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-23T04:44:02+00:00</dc:date>
+        <title>cubase:plugins</title>
+        <link>https://lurker.pro/cubase/plugins?rev=1508733842&amp;do=diff</link>
+        <description>Cubase: Plugins</description>
+    </item>
+</rdf:RDF>

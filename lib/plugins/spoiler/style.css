@@ -1,0 +1,26 @@
+.spoiler {
+	margin-top: 0.5em;
+	margin-bottom: 1em;
+}
+
+.spoiler .title {
+	font-size: 110%;
+	padding-right: 5px;
+	display: block;
+	float: left;
+}
+
+.spoiler .title:after {
+	content: ': ';
+}
+
+.spoiler input {
+	font-size: 70%;
+}
+
+.spoiler .content {
+	border: 1px dashed black;
+	padding: 0.5em;
+	margin-top: 0.5em;
+}
+

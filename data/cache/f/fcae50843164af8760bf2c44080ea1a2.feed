@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="https://lurker.pro/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://lurker.pro/feed.php">
+        <title>Lurker terms</title>
+        <description></description>
+        <link>https://lurker.pro/</link>
+        <image rdf:resource="https://lurker.pro/_media/wiki/favicon.ico" />
+       <dc:date>2017-11-10T16:25:44+00:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://lurker.pro/terms/0-9?rev=1508967941&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/terms/a?rev=1508980082&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/terms/b?rev=1508967679&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/terms/c?rev=1508967686&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/terms/d?rev=1508966361&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/terms/e?rev=1508966370&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/terms/f?rev=1508966382&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/terms/g?rev=1508966409&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/terms/h?rev=1508966587&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/terms/i?rev=1508966603&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/terms/j?rev=1508966617&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/terms/k?rev=1508966636&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/terms/l?rev=1508966663&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/terms/m?rev=1508966682&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/terms/n?rev=1508966687&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/terms/o?rev=1508966700&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/terms/p?rev=1508966707&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/terms/q?rev=1508966719&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/terms/r?rev=1508966725&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/terms/s?rev=1508966734&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/terms/t?rev=1508966742&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/terms/u?rev=1508966751&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/terms/v?rev=1508966756&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/terms/w?rev=1508966761&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/terms/x?rev=1508966766&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/terms/y?rev=1508966772&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/terms/z?rev=1508966778&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="https://lurker.pro/_media/wiki/favicon.ico">
+        <title>Lurker</title>
+        <link>https://lurker.pro/</link>
+        <url>https://lurker.pro/_media/wiki/favicon.ico</url>
+    </image>
+    <item rdf:about="https://lurker.pro/terms/0-9?rev=1508967941&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-25T21:45:41+00:00</dc:date>
+        <title>terms:0-9</title>
+        <link>https://lurker.pro/terms/0-9?rev=1508967941&amp;do=diff</link>
+        <description>0-9</description>
+    </item>
+    <item rdf:about="https://lurker.pro/terms/a?rev=1508980082&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-26T01:08:02+00:00</dc:date>
+        <title>terms:a</title>
+        <link>https://lurker.pro/terms/a?rev=1508980082&amp;do=diff</link>
+        <description>A</description>
+    </item>
+    <item rdf:about="https://lurker.pro/terms/b?rev=1508967679&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-25T21:41:19+00:00</dc:date>
+        <title>terms:b</title>
+        <link>https://lurker.pro/terms/b?rev=1508967679&amp;do=diff</link>
+        <description>B</description>
+    </item>
+    <item rdf:about="https://lurker.pro/terms/c?rev=1508967686&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-25T21:41:26+00:00</dc:date>
+        <title>terms:c</title>
+        <link>https://lurker.pro/terms/c?rev=1508967686&amp;do=diff</link>
+        <description>C</description>
+    </item>
+    <item rdf:about="https://lurker.pro/terms/d?rev=1508966361&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-25T21:19:21+00:00</dc:date>
+        <title>terms:d</title>
+        <link>https://lurker.pro/terms/d?rev=1508966361&amp;do=diff</link>
+        <description>D</description>
+    </item>
+    <item rdf:about="https://lurker.pro/terms/e?rev=1508966370&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-25T21:19:30+00:00</dc:date>
+        <title>terms:e</title>
+        <link>https://lurker.pro/terms/e?rev=1508966370&amp;do=diff</link>
+        <description>E</description>
+    </item>
+    <item rdf:about="https://lurker.pro/terms/f?rev=1508966382&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-25T21:19:42+00:00</dc:date>
+        <title>terms:f</title>
+        <link>https://lurker.pro/terms/f?rev=1508966382&amp;do=diff</link>
+        <description>F</description>
+    </item>
+    <item rdf:about="https://lurker.pro/terms/g?rev=1508966409&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-25T21:20:09+00:00</dc:date>
+        <title>terms:g</title>
+        <link>https://lurker.pro/terms/g?rev=1508966409&amp;do=diff</link>
+        <description>G</description>
+    </item>
+    <item rdf:about="https://lurker.pro/terms/h?rev=1508966587&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-25T21:23:07+00:00</dc:date>
+        <title>terms:h</title>
+        <link>https://lurker.pro/terms/h?rev=1508966587&amp;do=diff</link>
+        <description>H</description>
+    </item>
+    <item rdf:about="https://lurker.pro/terms/i?rev=1508966603&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-25T21:23:23+00:00</dc:date>
+        <title>terms:i</title>
+        <link>https://lurker.pro/terms/i?rev=1508966603&amp;do=diff</link>
+        <description>I</description>
+    </item>
+    <item rdf:about="https://lurker.pro/terms/j?rev=1508966617&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-25T21:23:37+00:00</dc:date>
+        <title>terms:j</title>
+        <link>https://lurker.pro/terms/j?rev=1508966617&amp;do=diff</link>
+        <description>J</description>
+    </item>
+    <item rdf:about="https://lurker.pro/terms/k?rev=1508966636&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-25T21:23:56+00:00</dc:date>
+        <title>terms:k</title>
+        <link>https://lurker.pro/terms/k?rev=1508966636&amp;do=diff</link>
+        <description>K</description>
+    </item>
+    <item rdf:about="https://lurker.pro/terms/l?rev=1508966663&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-25T21:24:23+00:00</dc:date>
+        <title>terms:l</title>
+        <link>https://lurker.pro/terms/l?rev=1508966663&amp;do=diff</link>
+        <description>L</description>
+    </item>
+    <item rdf:about="https://lurker.pro/terms/m?rev=1508966682&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-25T21:24:42+00:00</dc:date>
+        <title>terms:m</title>
+        <link>https://lurker.pro/terms/m?rev=1508966682&amp;do=diff</link>
+        <description>M</description>
+    </item>
+    <item rdf:about="https://lurker.pro/terms/n?rev=1508966687&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-25T21:24:47+00:00</dc:date>
+        <title>terms:n</title>
+        <link>https://lurker.pro/terms/n?rev=1508966687&amp;do=diff</link>
+        <description>N</description>
+    </item>
+    <item rdf:about="https://lurker.pro/terms/o?rev=1508966700&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-25T21:25:00+00:00</dc:date>
+        <title>terms:o</title>
+        <link>https://lurker.pro/terms/o?rev=1508966700&amp;do=diff</link>
+        <description>O</description>
+    </item>
+    <item rdf:about="https://lurker.pro/terms/p?rev=1508966707&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-25T21:25:07+00:00</dc:date>
+        <title>terms:p</title>
+        <link>https://lurker.pro/terms/p?rev=1508966707&amp;do=diff</link>
+        <description>P</description>
+    </item>
+    <item rdf:about="https://lurker.pro/terms/q?rev=1508966719&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-25T21:25:19+00:00</dc:date>
+        <title>terms:q</title>
+        <link>https://lurker.pro/terms/q?rev=1508966719&amp;do=diff</link>
+        <description>Q</description>
+    </item>
+    <item rdf:about="https://lurker.pro/terms/r?rev=1508966725&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-25T21:25:25+00:00</dc:date>
+        <title>terms:r</title>
+        <link>https://lurker.pro/terms/r?rev=1508966725&amp;do=diff</link>
+        <description>R</description>
+    </item>
+    <item rdf:about="https://lurker.pro/terms/s?rev=1508966734&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-25T21:25:34+00:00</dc:date>
+        <title>terms:s</title>
+        <link>https://lurker.pro/terms/s?rev=1508966734&amp;do=diff</link>
+        <description>S</description>
+    </item>
+    <item rdf:about="https://lurker.pro/terms/t?rev=1508966742&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-25T21:25:42+00:00</dc:date>
+        <title>terms:t</title>
+        <link>https://lurker.pro/terms/t?rev=1508966742&amp;do=diff</link>
+        <description>T</description>
+    </item>
+    <item rdf:about="https://lurker.pro/terms/u?rev=1508966751&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-25T21:25:51+00:00</dc:date>
+        <title>terms:u</title>
+        <link>https://lurker.pro/terms/u?rev=1508966751&amp;do=diff</link>
+        <description>U</description>
+    </item>
+    <item rdf:about="https://lurker.pro/terms/v?rev=1508966756&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-25T21:25:56+00:00</dc:date>
+        <title>terms:v</title>
+        <link>https://lurker.pro/terms/v?rev=1508966756&amp;do=diff</link>
+        <description>V</description>
+    </item>
+    <item rdf:about="https://lurker.pro/terms/w?rev=1508966761&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-25T21:26:01+00:00</dc:date>
+        <title>terms:w</title>
+        <link>https://lurker.pro/terms/w?rev=1508966761&amp;do=diff</link>
+        <description>W</description>
+    </item>
+    <item rdf:about="https://lurker.pro/terms/x?rev=1508966766&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-25T21:26:06+00:00</dc:date>
+        <title>terms:x</title>
+        <link>https://lurker.pro/terms/x?rev=1508966766&amp;do=diff</link>
+        <description>X</description>
+    </item>
+    <item rdf:about="https://lurker.pro/terms/y?rev=1508966772&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-25T21:26:12+00:00</dc:date>
+        <title>terms:y</title>
+        <link>https://lurker.pro/terms/y?rev=1508966772&amp;do=diff</link>
+        <description>Y</description>
+    </item>
+    <item rdf:about="https://lurker.pro/terms/z?rev=1508966778&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-25T21:26:18+00:00</dc:date>
+        <title>terms:z</title>
+        <link>https://lurker.pro/terms/z?rev=1508966778&amp;do=diff</link>
+        <description>Z</description>
+    </item>
+</rdf:RDF>

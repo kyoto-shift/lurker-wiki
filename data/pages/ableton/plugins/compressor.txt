@@ -1,0 +1,40 @@
+====== Compressor ======
+
+<WRAP group>
+<WRAP right column 35%>
+[{{:ableton:plugins:compressor1.png?direct|Default compressor in Live 9}}]
+
+</WRAP>
+
+<WRAP columns>
+Ableton's compressor device[(findcomp>The default location for the Compressor device is under Audio Effects, Compressor.)] has four main parameters for controlling the amount compression applied.
+
+===== Ratio =====
+The amount of compression applied is controlled by the ratio. Where a 4 : 1 ratio would mean that if a signal above the [[#threshold|threshold]] increases by 4dB, the compressor output will only increase by 1dB. If a signal above the threshold increased to 8db, the compressor output will increase by 2dB.
+
+<WRAP right column 35%>
+[{{:ableton:plugins:compressor2.png?direct|Compressor in use}}]
+</WRAP>
+
+===== Threshold =====
+
+The threshold slider sets when the compression will be applied. Uncompressed signals fall below the threshold, while compressed signals sit above the threshold. The light orange Gain Reduction[(gr>Gain Reduction is the amount of gain (volume) reduced while the compressor is applied. More compression equals more noticeable effects, less compression equals less noticeable effects.)] meter shows how much compression is being applied to the input signal. Due to the amount of gain lost during compression, the Output (Out) parameter increases the overall volume of the output signal.  
+
+
+====== Attack & Release ======
+
+Attack defines the length of time it takes to reach maximum compression once a signal exceeds the threshold. Release defines the length of time it takes for the compressor to return to normal operation after the signal falls below the threshold. Enabling Auto Release will adjust the release time automatically based on the incoming signal.
+
+====== Dry/Wet ======
+The dry/wet parameter adjusts the balance between the compressed and uncompressed signals. At 100%, only the compressed signal is audible. At 0%, only the original input signal is audible.
+
+</WRAP>
+</WRAP>
+
+
+
+
+/* refs */
+/* findcomp = location of compressor reference. */
+/* gr = gain reduction explaination */
+

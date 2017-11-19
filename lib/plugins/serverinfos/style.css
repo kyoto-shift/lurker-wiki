@@ -1,0 +1,278 @@
+/*	*	*	*	*	*	*	*	*	**
+**	Style pour plugin serverinfos	**
+**	Créé: 23/04/2016				**
+**	MàJ : 02/07/2016				**
+**	*	*	*	*	*	*	*	*	*/
+
+.categorie 	{background-color: #c5c5c5;}
+.valeur		{background-color: #e3e3e3;}
+.online		{color: green;}
+.offline	{color: red;}
+
+#corps	{
+width: 100%;
+height: 100%;
+float: left;
+margin: auto;
+position: relative;
+background-position: center;
+visibility: visible;
+z-index: 10;
+}
+
+	#infos {
+	width: 90%;
+	float: left;
+	margin: auto;
+	position: relative;
+	background-position: center;
+	visibility: visible;
+	z-index: 10;
+	}
+
+#categorie	{
+width: 100%;
+background-color: lightblue;
+text-align: center;
+float: left;
+margin: auto;
+position: relative;
+background-position: center;
+visibility: visible;
+z-index: 10;
+}
+
+#entete	{
+width: 100%;
+float: left;
+margin: auto;
+position: relative;
+background-position: center;
+visibility: visible;
+z-index: 10;
+}
+
+	#texte	{
+	width: 70%;
+	float: left;
+	margin: auto;
+	position: relative;
+	background-position: center;
+	visibility: visible;
+	z-index: 10;
+	}
+
+	#logos	{
+	width: 30%;
+	float: left;
+	margin: auto;
+	position: relative;
+	background-position: center;
+	visibility: visible;
+	z-index: 10;
+	}
+
+		#logoA	{
+		height: 100%;
+		width: 25%;
+		float: left;
+		margin: auto;
+		position: relative;
+		background-position: center;
+		visibility: visible;
+		z-index: 10;
+		}
+
+		#logoB	{
+		height: 100%;
+		width: 25%;
+		float: left;
+		margin: auto;
+		position: relative;
+		background-position: center;
+		visibility: visible;
+		z-index: 10;
+		}
+
+		#logoC	{
+		height: 100%;
+		width: 25%;
+		float: left;
+		margin: auto;
+		position: relative;
+		background-position: center;
+		visibility: visible;
+		z-index: 10;
+		}
+
+		#logoD	{
+		height: 100%;
+		width: 25%;
+		float: left;
+		text-align: center;
+		margin: auto;
+		position: relative;
+		background-position: center;
+		visibility: visible;
+		z-index: 10;
+		}
+
+	#categorie_contenu	{
+	width: 100%;
+	/*background-color: lightyellow;*/
+	float: left;
+	margin: auto;
+	position: relative;
+	background-position: center;
+	visibility: visible;
+	z-index: 10;
+	}
+
+		#categorie_contenu_cpu	{
+		width: 45%;
+		float: left;
+		text-align: center;
+		margin: auto;
+		position: relative;
+		background-position: center;
+		visibility: visible;
+		z-index: 10;
+		}
+			#categorie_contenu_cpu_mark	{
+			width: 33%;
+
+			float: left;
+			margin: auto;
+			position: relative;
+			background-position: center;
+			visibility: visible;
+			z-index: 10;
+			}
+
+			#categorie_contenu_cpu_model	{
+			width: 33%;
+
+			float: left;
+			margin: auto;
+			position: relative;
+			background-position: center;
+			visibility: visible;
+			z-index: 10;
+			}
+
+			#categorie_contenu_cpu_freq	{
+			width: 33%;
+
+			float: left;
+			margin: auto;
+			position: relative;
+			background-position: center;
+			visibility: visible;
+			z-index: 10;
+			}
+
+		#categorie_contenu_ram	{
+		width: 10%;
+
+		float: left;
+		text-align: center;
+		margin: auto;
+		position: relative;
+		background-position: center;
+		visibility: visible;
+		z-index: 10;
+		}
+
+			#categorie_contenu_ram_total	{
+			width: 100%;
+
+			float: left;
+			margin: auto;
+			position: relative;
+			background-position: center;
+			visibility: visible;
+			z-index: 10;
+			}
+
+		#categorie_contenu_dd	{
+		width: 45%;
+
+		float: left;
+		text-align: center;
+		margin: auto;
+		position: relative;
+		background-position: center;
+		visibility: visible;
+		z-index: 10;
+		}
+
+		#categorie_contenu_os	{
+		width: 33%;
+
+		float: left;
+		text-align: center;
+		margin: auto;
+		position: relative;
+		background-position: center;
+		visibility: visible;
+		z-index: 10;
+		}
+
+		#categorie_contenu_system	{
+		width: 33%;
+
+		float: left;
+		text-align: center;
+		margin: auto;
+		position: relative;
+		background-position: center;
+		visibility: visible;
+		z-index: 10;
+		}
+
+		#categorie_contenu_vmac	{
+		width: 33%;
+
+		float: left;
+		text-align: center;
+		margin: auto;
+		position: relative;
+		background-position: center;
+		visibility: visible;
+		z-index: 10;
+		}
+
+		#categorie_contenu_web	{
+		width: 25%;
+
+		float: left;
+		text-align: center;
+		margin: auto;
+		position: relative;
+		background-position: center;
+		visibility: visible;
+		z-index: 10;
+		}
+
+		#categorie_contenu_php	{
+		width: 50%;
+
+		float: left;
+		text-align: center;
+		margin: auto;
+		position: relative;
+		background-position: center;
+		visibility: visible;
+		z-index: 10;
+		}
+
+		#categorie_contenu_service	{
+		width: 14.2857%;
+		float: left;
+		text-align: center;
+		margin: auto;
+		position: relative;
+		background-position: center;
+		visibility: visible;
+		z-index: 10;
+		}

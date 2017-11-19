@@ -1,0 +1,2 @@
+This [[doku>serverinfos|tool]] allow you to know things about your Dokuwiki’s server
+

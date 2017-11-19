@@ -1,0 +1,5 @@
+<color red>Red (css name)</color>
+
+<color #856924>Brownish Color (hex code)</color>
+
+<color blue/red>Blue Text, Red BG</color>

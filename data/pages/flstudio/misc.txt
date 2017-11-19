@@ -1,0 +1,29 @@
+====== FL Studio: Miscellaneous ======
+
+<WRAP group>
+
+/* ----- VIDEO ----- */
+
+<WRAP half column>
+  * **Video** --
+    * [[https://www.youtube.com/watch?v=of7LXoom3dk| FL Studio 12 Basics by SeamlessR - YouTube]]
+
+
+</WRAP>
+
+/* ----- WRITTEN ----- */
+
+<WRAP half column>
+  * **Written** --
+    * [[http://www.image-line.com/support/FLHelp/|FL Studio 12 Manual]]
+
+</WRAP>
+</WRAP>
+
+
+
+
+
+
+
+

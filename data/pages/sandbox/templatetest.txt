@@ -1,0 +1,5 @@
+/* this is a variable */
+{{fields>version=1.0.5}}
+
+This is {{fields>version}}. Hopefully you see a version number and not a link!
+

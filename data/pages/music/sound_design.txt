@@ -1,0 +1,7 @@
+[[music:sound_design:chat|{{fa>comments?24&right|Discuss}}]]
+====== Sound Design ====== 
+Articles related to music-based sound design.
+
+===== Articles: =====
+
+{{simplenavi>music:sound_design?ns: -chat}}

@@ -1,0 +1,36 @@
+====== Pro Tools: Overview  ======
+
+<WRAP group>
+<WRAP column 100%>
+Pro Tools is a digital audio workstation developed and released by Avid Technology for the Microsoft Windows and OS X operating systems which can be used for a wide range of sound recording and sound production purposes. Pro Tools can run as standalone software, or operate using a range of external analog/digital converters and internal PCI Local Bus (PCI) or PCIe audio cards with onboard digital signal processors (DSP) to provide effects such as reverb and compression.
+
+</WRAP>
+</WRAP>
+
+<WRAP center todo 100%>
+Pro Tools is low on content! If you'd like to help, get started by reading our [[:lurker|editing guides]]!
+</WRAP>
+
+
+<WRAP group>
+<WRAP half column>
+[[protools:plugins|Plugins:]] 
+{{simplenavi>protools:plugins}}
+</WRAP>
+
+<WRAP half column>
+[[protools:guides|Guides:]] 
+{{simplenavi>protools:guides}}
+</WRAP>
+</WRAP>
+----
+
+<WRAP group>
+<WRAP left>
+[[protools:misc|Miscellaneous:]]
+</WRAP>
+
+{{page>protools:misc&noheader&noeditbutton}}
+
+</WRAP>
+

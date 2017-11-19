@@ -1,0 +1,132 @@
+
+<h2 class="sectionedit1" id="queries">Queries</h2>
+<div class="level2">
+
+<p>
+Queries can be about pages, IP addresses, Countries, or Browser/User Agents. 
+</p>
+
+</div>
+<!-- EDIT1 SECTION "Queries" [1-99] -->
+<h3 class="sectionedit2" id="rules">Rules</h3>
+<div class="level3">
+
+<p>
+Queries are governed by the dominant or <strong>priority</strong> field.
+</p>
+<ol>
+<li class="level1"><div class="li"> Any priority with country set will match the priority field plus the country.              </div>
+</li>
+<li class="level4"><div class="li"> Page priority with both user agent and country set will match all three fields.</div>
+</li>
+<li class="level4"><div class="li"> IP queries (i.e. ip priority) ignore all other fields and if an IP is included in a query where another field has priority, the IP address is ignored.</div>
+</li>
+</ol>
+
+<p>
+You can choose to ignore all fields other than the priority field and then only the priority field will be searched.  
+</p>
+
+</div>
+<!-- EDIT2 SECTION "Rules" [100-643] -->
+<h3 class="sectionedit3" id="searches">Searches</h3>
+<div class="level3">
+
+<p>
+The search functions are case-insensitive and will match partial strings as well as whole strings.  So, for instance, 
+if you search for <code>wiki</code> in the page search, it will return all pages which occur in the wiki namespace and any other pages
+which include wiki in their names.
+</p>
+<ol>
+<li class="level1"><div class="li"> <strong>UserAgent Search:</strong>  This search is useful if a particular user agent does not show up on the drop-down menu. This can happen if a user agent string appears in a subversion but not in the major version string.  A successful search will add whatever is found to the top of the drop-down menu so that  you can then select it.   </div>
+</li>
+<li class="level1"><div class="li"> <strong>Country Search: </strong>   If a country does not appear in the list of countries, this will add it to the list so that you can then select it.  If you enter a partial name, it will add all matches.  For instance, if you enter &#039;isl&#039;, you will add a whole list of countries that have Island in their names</div>
+</li>
+<li class="level1"><div class="li"> <strong> Page:</strong>  This will accept any whole or part of a page name and will return results for all matching values.     </div>
+</li>
+</ol>
+
+</div>
+<!-- EDIT3 SECTION "Searches" [644-1706] -->
+<h3 class="sectionedit4" id="dates">Dates</h3>
+<div class="level3">
+
+<p>
+ Dates are all confined to months within the same year.   You can select multiple dates except for page priority.  However, the page
+ field can be included in a multi-date query where one of the other fields has priority.
+</p>
+
+</div>
+<!-- EDIT4 SECTION "Dates" [1707-1949] -->
+<h3 class="sectionedit5" id="output">Output</h3>
+<div class="level3">
+
+<p>
+Queries will result in tables with the following columns for each of the months you select from the drop-down menu of months:
+</p>
+<div class="table sectionedit6"><table class="inline">
+	<tr class="row0">
+		<td class="col0">&lt;<code>IP</code>&gt;</td><td class="col1"><code>Month</code></td><td class="col2"><code>Accesses</code></td><td class="col3"><code>Pages</code></td><td class="col4">&lt;<code>Country</code>&gt;</td><td class="col5"><code>User Agent</code></td><td class="col6"><code>Search Terms</code></td><td class="col7"><code>Name Spaces</code></td><td class="col8"><code>Query String Names</code></td><td class="col9"><code>Query String Values</code></td>
+	</tr>
+</table></div>
+<!-- EDIT6 TABLE [2094-2246] -->
+<p>
+When you query a page, this data will be displayed for every IP address that has accessed the page.  This can sometimes amount to a considerable amount of output,
+especially for IP addresses that are spiders and have accessed many pages on your wiki.  The page column can often have a great many entries. Therefore, when you query a page, you have the option
+of displaying a <code>brief</code> format with the following columns:
+</p>
+<div class="table sectionedit7"><table class="inline">
+	<tr class="row0">
+		<td class="col0"><code>Month</code></td><td class="col1"><code>Accesses</code></td><td class="col2"><code>Country</code></td><td class="col3"><code>User Agent</code></td>
+	</tr>
+</table></div>
+<!-- EDIT7 TABLE [2670-2721] -->
+<p>
+In the case of output for page queries, there are two results for <strong>accesses</strong>.  The one which appears in the header at the top of the output refers to the number of access for the page being queried.
+The accesses field in the table refers to the number of times the IP address has accessed the site.
+</p>
+
+<p>
+The columns in angle brackets will not appear in every table.  The <code>Country</code>  column will be excluded from Country queries.  The <code>IP</code>
+column will appear in tables with <code>User Agent</code> and <code>Country</code> priority.
+</p>
+
+</div>
+<!-- EDIT5 SECTION "Output" [1950-3238] -->
+<h3 class="sectionedit8" id="file_menu">File Menu</h3>
+<div class="level3">
+
+<p>
+There is a drop-down menu of files which are currently using the quickstats syntax.  You can click on these an the page will pop up.  
+This serves a two-fold purpose: <br/>
+
+1. They give you a convenient means of checking names and IP&#039;s which you might want to use in your queries. <br/>
+
+2. They enable you to keep all your work with quickstats in the admin panel, giving you immediate access to any
+charts you may have created with the quickstats syntax plugin.
+</p>
+
+</div>
+<!-- EDIT8 SECTION "File Menu" [3239-3716] -->
+<h3 class="sectionedit9" id="execution_time">Execution Time</h3>
+<div class="level3">
+
+<p>
+If your query times out, you see a “timed out” message. If your server is not set to safemode for PHP scripts, you can increase the maxiumum execution time with the <code>max_exec_time</code> option in the quickstats section of the Configuration Manager. This option is set by default to 60 seconds. If your server is set to safemode and you have permission to make changes to php.ini, then you can reset the <code>max_execution_time</code> value in php.ini. The value in php.ini usually defaults to 30 seconds.
+</p>
+
+<p>
+In the case of long searches, the timer icon may continue displaying after the timeout period has been exceeded, but the processing has actually stopped and the result will eventually display showing that the maximum timeout had been exceeded.
+</p>
+<hr />
+
+<p>
+<strong>Notes</strong> <br/>
+
+1. The User Agent will be a browser or the name of a spider, search engine robot, or crawler.<br/>
+
+2. The <code>Accesses</code> column always refers to the number of times the IP address has accessed pages on your wiki. When you request data about a page or group of pages, the header for each page will indicate the number of times the page itself has been accessed.
+</p>
+
+</div>
+<!-- EDIT9 SECTION "Execution Time" [3717-] -->

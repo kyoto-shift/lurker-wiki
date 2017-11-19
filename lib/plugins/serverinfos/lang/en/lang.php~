@@ -1,0 +1,31 @@
+<?php
+
+/**
+ * English language file for serverinfos plugin
+ *
+ * @author laurent bisson <lau.biss@voila.fr>
+ */
+$lang['name']					= 'Informations of the Dokuwiki\'s server';
+$lang['server_ip']				= 'ip';
+$lang['server_web']				= 'web werver';
+$lang['vauptime']  		        = 'Uptime';
+$lang['vaserver']       	    = 'Server datas';
+$lang['vaphp']              	= 'pHp datas';
+$lang['server_name']			= 'Server\'s name';
+$lang['server_os']				= 'Server\'s OS';
+$lang['php_version']			= 'pHp version';
+$lang['document_root']			= 'Root document';
+$lang['server_port']			= 'Server port number';
+$lang['free_space']				= 'free space on disk';
+$lang['total_space']			= 'Total space on disk';
+$lang['path_toini']				= 'Path to the configuration file of pHp';
+$lang['dokufolder']				= 'Content of Dokuwiki folder';
+$lang['uploadmaxfilesize']		= 'Directive upload_max_filesize';
+$lang['postmaxsize']			= 'Directive post_maxsize';
+$lang['memorylimit']			= 'Directive memory_limit';
+$lang['server_local_time'] 		= "Time server";
+$lang['server_itil_uptime'] 	= "This server has not been restarted since";
+$lang['day']					= "day";
+$lang['hour']					= "hour";
+$lang['minute']					= "minute";
+?>

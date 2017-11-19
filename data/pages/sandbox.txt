@@ -1,0 +1,4 @@
+This is a namespace for testing. Nothing here is permanent, nothing here should be taken seriously.
+
+===Pages in the sandbox:===
+{{simplenavi>sandbox}}

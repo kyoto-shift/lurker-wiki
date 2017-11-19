@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="https://lurker.pro/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://lurker.pro/feed.php">
+        <title>Lurker reason:plugins</title>
+        <description></description>
+        <link>https://lurker.pro/</link>
+        <image rdf:resource="https://lurker.pro/_media/wiki/favicon.ico" />
+       <dc:date>2017-11-13T19:38:22+00:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://lurker.pro/reason/plugins/kong?rev=1508810635&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/reason/plugins/redrum?rev=1508811991&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/reason/plugins/subtractor?rev=1508811662&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lurker.pro/reason/plugins/thor?rev=1508811960&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="https://lurker.pro/_media/wiki/favicon.ico">
+        <title>Lurker</title>
+        <link>https://lurker.pro/</link>
+        <url>https://lurker.pro/_media/wiki/favicon.ico</url>
+    </image>
+    <item rdf:about="https://lurker.pro/reason/plugins/kong?rev=1508810635&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-24T02:03:55+00:00</dc:date>
+        <title>reason:plugins:kong</title>
+        <link>https://lurker.pro/reason/plugins/kong?rev=1508810635&amp;do=diff</link>
+        <description>Kong Drum Designer
+
+The Kong Drum Designer gives the visual impression of a pattern-based drum machine, like the legendary MPC units. Indeed, it does have a matrix of 4 x 4 pads that are used for playing the sounds, just like the aforementioned classics. There are significant differences, however.</description>
+    </item>
+    <item rdf:about="https://lurker.pro/reason/plugins/redrum?rev=1508811991&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-24T02:26:31+00:00</dc:date>
+        <title>reason:plugins:redrum</title>
+        <link>https://lurker.pro/reason/plugins/redrum?rev=1508811991&amp;do=diff</link>
+        <description>Redrum Drum Computer
+
+At first glance, Redrum looks styled after pattern-based drum machines, like the legendary Roland 808/909 units. Indeed, it does have a row of 16 step buttons that are used for step programming patterns, just like the aforementioned classics. There are significant differences, however. Redrum features ten drum “channels” that can each be loaded with an audio file, allowing for completely open-ended sound possibilities. Don’t like the snare - just change it. Complete drum ki…</description>
+    </item>
+    <item rdf:about="https://lurker.pro/reason/plugins/subtractor?rev=1508811662&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-24T02:21:02+00:00</dc:date>
+        <title>reason:plugins:subtractor</title>
+        <link>https://lurker.pro/reason/plugins/subtractor?rev=1508811662&amp;do=diff</link>
+        <description>Subtractor Polyphonic Synthesizer
+
+Subtractor is an analog-type polyphonic synthesizer based on subtractive synthesis, the method used in analog synthesizers.
+
+The Oscillator Section
+
+Subtractor provides two oscillators. Oscillators are the main sound generators in Subtractor, the other features are used to shape the sound of the oscillators. Oscillators generate two basic properties, waveform and pitch (frequency). The type of waveform the oscillator produces determines the harmonic content of …</description>
+    </item>
+    <item rdf:about="https://lurker.pro/reason/plugins/thor?rev=1508811960&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-24T02:26:00+00:00</dc:date>
+        <title>reason:plugins:thor</title>
+        <link>https://lurker.pro/reason/plugins/thor?rev=1508811960&amp;do=diff</link>
+        <description>Thor Polysonic Synthesizer
+
+Thor is an advanced synthesizer with many unique features.
+
+The design could be described as semi-modular, in that the oscillator and filter sections are open slots that allow the user to select between various different oscillator and filter types, each with a distinct character. Some of these designs were inspired by selected vintage equipment.</description>
+    </item>
+</rdf:RDF>

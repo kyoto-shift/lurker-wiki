@@ -1,0 +1,24 @@
+====== Thor Polysonic Synthesizer ======
+
+<WRAP group>
+<WRAP right column 35%>
+[{{ :reason:plugins:thor.jpg?direct|Thor in Reason.}}]
+</WRAP>
+
+<WRAP columns>
+Thor is an advanced synthesizer with many unique features.
+
+The design could be described as semi-modular, in that the oscillator and filter sections are open slots that allow the user to select between various different oscillator and filter types, each with a distinct character. Some of these designs were inspired by selected vintage equipment.
+
+As a result, Thor is capable of producing an astounding array of sounds.
+
+While it offers a lot of scope for serious sound modelling, it still has a basically simple and user-friendly interface.
+
+In the extensive Modulation bus routing section both audio and control signals (CV) co-exist, and more or less any routing combination can be assigned. Use audio to modulate a CV signal or vice versa - Thor’s modulation capabilities are virtually limitless.
+
+Thor also features an advanced step sequencer which can be used for creating melody lines or purely as a modulation source.
+
+There are also audio inputs on the back panel. By connecting the output of another device to these inputs, you can use Thor’s filters, envelopes etc. to process the sound, or you can use the external audio source to modulate a Thor parameter.
+
+</WRAP>
+</WRAP>

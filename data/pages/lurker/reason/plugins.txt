@@ -1,0 +1,15 @@
+===== Reason: Plugins =====
+
+<WRAP group>
+<WRAP column 100%>
+{{simplenavi>reason:plugins}}
+
+<WRAP center todo 60%>
+add rest of stock plugins
+</WRAP>
+
+</WRAP>
+</WRAP>
+
+
+

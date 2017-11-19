@@ -1,0 +1,28 @@
+====== Cubase: Miscellaneous ======
+
+<WRAP group>
+
+/* ----- VIDEO ----- */
+
+<WRAP half column>
+  * **Video** --
+    * 
+
+
+</WRAP>
+
+/* ----- WRITTEN ----- */
+
+<WRAP half column>
+  * **Written** --
+    * [[https://www.steinberg.help/cubase-manuals/cubase-pro/cubase-pro-9/|Cubase Pro 9 Manual]]
+
+</WRAP>
+</WRAP>
+
+
+
+
+
+
+

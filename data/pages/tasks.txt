@@ -1,0 +1,30 @@
+===== Wiki Tasks =====
+
+This page lists various tasks in need of completion around Lurker. If you're looking to contribute but aren't sure of where to start, take a look at the list below.
+
+
+
+===== Editorial =====
+----
+
+==== High Priority ====
+
+  * Create pages for DAW specific stock plugins (eq, compressor, fx, etc).
+  * Write descriptions for stock plugins, like [[ableton:plugins:compressor|Ableton Compressor]].
+
+==== Medium Priority ====
+  * Write guides anything in a guides namespace, like [[ableton:guides|Ableton Guides]].
+
+==== Low Priority ====
+  * Update DAW descriptions and landing page content. Such as [[reason|Reason]].
+
+----
+
+===== Future Plans & Ideas =====
+  * Full wiki translation, starting with Spanish, French, and Korean.
+
+----
+
+===== Administrative =====
+----
+

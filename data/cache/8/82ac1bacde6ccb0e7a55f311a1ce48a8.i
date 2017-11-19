@@ -1,0 +1,3 @@
+a:8:{i:0;a:3:{i:0;s:14:"document_start";i:1;a:0:{}i:2;i:0;}i:1;a:3:{i:0;s:6:"header";i:1;a:3:{i:0;s:28:"IP Address based Access Bans";i:1;i:1;i:2;i:1;}i:2;i:1;}i:2;a:3:{i:0;s:12:"section_open";i:1;a:1:{i:0;i:1;}i:2;i:1;}i:3;a:3:{i:0;s:6:"p_open";i:1;a:0:{}i:2;i:1;}i:4;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:200:"This plugin allows you to ban certain users based on their IP address. Users
+accessing the wiki from a banned IP will only see an error message telling
+them about the ban and the explanation you gave.";}i:2;i:45;}i:5;a:3:{i:0;s:7:"p_close";i:1;a:0:{}i:2;i:245;}i:6;a:3:{i:0;s:13:"section_close";i:1;a:0:{}i:2;i:247;}i:7;a:3:{i:0;s:12:"document_end";i:1;a:0:{}i:2;i:247;}}
